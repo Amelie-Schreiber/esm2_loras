@@ -5,7 +5,7 @@ This is an attempt at training a Low Rank Adaptation (LoRA) for the protein lang
 ## Model Weights and Config
 
 The model itself 
-```
+```python
 "AmelieSchreiber/esm2_t6_8M_UR50D_lora_rna_binding_sites"
 ```
 can be found on [Hugging Face here](https://huggingface.co/AmelieSchreiber/esm2_t6_8M_UR50D_lora_rna_binding_sites).
