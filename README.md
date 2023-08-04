@@ -2,6 +2,14 @@
 
 This is an attempt at training a Low Rank Adaptation (LoRA) for the protein language model ESM-2 for a token classification task. In particular, we attempt to train an RNA binding site predictor. There are still some issues to work out and any feedback or advice would be much appreciated. 
 
+## Model Weight and Config
+
+The model itself 
+```
+"AmelieSchreiber/esm2_t6_8M_UR50D_lora_rna_binding_sites"
+```
+can be found on [Hugging Face here](https://huggingface.co/AmelieSchreiber/esm2_t6_8M_UR50D_lora_rna_binding_sites).
+
 To set up the the conda environment, clone the repo and run:
 ```
 conda env create -f environment.yml
