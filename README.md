@@ -10,3 +10,9 @@ Then run:
 ```
 conda activate lora_esm_2
 ```
+To train the model run:
+```python
+from lora_esm2_script import train_protein_model
+
+train_protein_model()
+```
