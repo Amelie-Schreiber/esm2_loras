@@ -1,0 +1,1145 @@
+<BindPartners xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Count="163">
+<partner>
+<BindPartner pdbid="2DRB" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKVEEILEKALELVIPDEEEVRKGREAEEELRRRLDELGVEYVFVGSYARNTWLKGSLEIDVFLLFPEEFSKEELRERGLEIGKAVLDSYEIRYAEHPYVHGVVKGVEVDVVPCYKLKEPKNIKSAVDRTPFHHKWLEGRIKGKENEVRLLKGFLKANGIYGAEYKVRGFSGYLCELLIVFYGSFLETVKNARRWTRRTVIDVAKGEVRKGEEFFVVDPVDEKRNVAANLSLDNLARFVHLCREFMEAPSLGFFKPKHPLEIEPERLRKIVEERGTAVFAVKFRKPDIVDDNLYPQLERASRKIFEFLERENFMPLRSAFKASEEFCYLLFECQIKEISRVFRRMGPQFEDERNVKKFLSRNRAFRPFIENGRWWAFEMRKFTTPEEGVRSYASTHWHTLGKNVGESIREYFEIISGEKLFKEPVTAELCEMMGVKD</proSeq>
+<proBnd>---------------------------------------------+---+----------+---------------------------------+++-+---------------------------+--+--+-------------------------------+--+----+--------------------------------------------------+++----------------------------------------------------------------+----+-------------+---------------------------------+--+------+--+---+-+----------------------------+---+-+---+-----------------------------------</proBnd>
+<rnaSeq>GGCCCGGGGCGGUUCGAUUCCGCCCUGGGCCACCA</rnaSeq>
+<rnaBnd>++----------++++----+++-------+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1O0B" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MSEAEARPTNFIRQIIDEDLASGKHTTVHTRFPPEPNGYLHIGHAKSICLNFGIAQDYKGQCNLRFDDTNPVKEDIEYVESIKNDVEWLGFHWSGNVRYSSDYFDQLHAYAIELINKGLAYVDELTPEQIREYRGTLTQPGKNSPYRDRSVEENLALFEKMRAGGFEEGKACLRAKIDMASPFIVMRDPVLYRIKFAEHHQTGNKWCIYPMYDFTHCISDALEGITHSLCTLEFQDNRRLYDWVLDNITIPVHPRQYEFSRLNLEYTVMSKRKLNLLVTDKHVEGWDDPRMPTISGLRRRGYTAASIREFCKRIGVTKQDNTIEMASLESCIREDLNENAPRAMAVIDPVKLVIENYQGEGEMVTMPNHPNKPEMGSRQVPFSGEIWIDRADFREEANKQYKRLVLGKEVRLRNAYVIKAERVEKDAEGNITTIFCTYDADTLSKDPADGRKVKGVIHWVSAAHALPVEIRLYDRLFSVPNPGAADDFLSVINPESLVIKQGFAEPSLKDAVAGKAFQFEREGYFCLDSRHSTAEKPVFNRTVGLRDTWAKVGE</proSeq>
+<proBnd>----------+--+--------------------+-------------------------------+-++------------------------------------------------------+-+--+---+-++-------------------------------+-++-----------------+--+++----------------+-------------------+-+++--+-------------------------------------------------------------------------++--+-++-+-+--+---------+----+---------------------------+-----------------------------+-++-------+-++-------------------------------------------------------------------------------------------------------+--+---------------------------------</proBnd>
+<rnaSeq>UGGGGUAUCGCCAAGCGGUAAGGCACCGGAUUCUGAUUCCGGCAUUCCGAGGUUCGAAUCCUCGUACCCCAGCCA</rnaSeq>
+<rnaBnd>-++++-++-+++++++-----+++--------+++-+------------------------------+-++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1AQ3" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYSIKVEVPKVATQTVGGVELPVAAWRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY</proSeq>
+<proBnd>----------------------------+---------------+-+-+---------+-+-----------------------+-+------------------------------------------</proBnd>
+<rnaSeq>ACAUGAGGAUUACCCAUGU</rnaSeq>
+<rnaBnd>--+-++-+++++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1SJ3" ID="PR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMKGT</proSeq>
+<proBnd>------------+-+++-+--+---------------------+----++-+-+-+-----------------------+-----+-+++++--------</proBnd>
+<rnaSeq>GAUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGACU</rnaSeq>
+<rnaBnd>----------------------------------------------+----++++++---+---------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1DUL" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>FDLNDFLEQKVLVRMEAIINSMTMKERAKPEIIKGSRKRRIAAGSGMQVQDVNRLLKQFDDMQRMMKKM</proSeq>
+<proBnd>------------+---+--++-+-+-+--------++--+---+++-----------------------</proBnd>
+<rnaSeq>GGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGCC</rnaSeq>
+<rnaBnd>---------+++------++++-----------++--------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4K50" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GQIQISKHVKDVGLPSIHTPTKTKLQPSVFYDIFPGSKEPAVLTEKDPRLKVDFDSALFSKYKGNTECSLNEHIQVAVAHYSAQLATLDIDPQPIAMEDSVFGMDGLEALDLNTSAGYPYVTLGIKKKDLINNKTKDISKLKLALDKYDVDLPMITFLKDELRKKDKIAAGKTRVIEASSINDTILFRTVYGNLFSKFHLNPGVVTGCAVGCDPETFWSKIPLMLDGDCIMAFDYTNYDGSIHPIWFKALGMVLDNLSFNPTLINRLCNSKHIFKSTYYEVEGGVPSGCSGTSIFNSMINNIIIRTLVLDAYKHIDLDKLKIIAYGDDVIFSYKYKLDMEAIAKEGQKYGLTITPADKSSEFKELDYGNVTFLKRGFRQDDKYKFLIHPTFPVEEIYESIRWTKKPSQMQEHVLSLCHLMWHNGPEIYKDFETKIRSVSAGRALYIPPYELLRHEWYEKF</proSeq>
+<proBnd>-----------------+-+-+-------------------------------------------------------------------------------------+--+--++------+----+------------------------------++----------------+--+----+---+----------------------++--+------------------------------------------------------------------------+++--+-------------------------------+-------------------------------------------------------------------------------------+---+-------------------------------------------+-</proBnd>
+<rnaSeq>AGGAGAUGAAAGUCUCCAGGUCUCUCGUCCGGAAA</rnaSeq>
+<rnaBnd>++--------------+++++++-+++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3IRW" ID="PR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMK</proSeq>
+<proBnd>------------+-++--++--------------------------+-++-++--+----------------------------++-+-+-+------</proBnd>
+<rnaSeq>GGUCACGCACAGGGCAAACCAUUCGAAAGAGUGGGACGCAAAGCCUCCGGCCUAAACCAUUGCACUCCGGUAGGUAGCGGGGUUACCGAUGG</rnaSeq>
+<rnaBnd>------------------------------------------------------++--+++++++---+-----------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1G59" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MVVTRIAPSPTGDPHVGTAYIALFNYAWARRNGGRFIVRIEDTDRARYVPGAEERILAALKWLGLSYDEGPDVAAPTGPYRQSERLPLYQKYAEELLKRGWAYRAFETPEELEQIRKEKGGYDGRARNIPPEEAEERARRGEPHVIRLKVPRPGTTEVKDELRGVVVYDNQEIPDVVLLKSDGYPTYHLANVVDDHLMGVTDVIRAEEWLVSTPIHVLLYRAFGWEAPRFYHMPLLRNPDKTKISKRKSHTSLDWYKAEGFLPEALRNYLCLMGFSMPDGREIFTLEEFIQAFTWERVSLGGPVFDLEKLRWMNGKYIREVLSLEEVAERVKPFLREAGLSWESEAYLRRAVELMRPRFDTLKEFPEKARYLFTEDYPVSEKAQRKLEEGLPLLKELYPRLRAQEEWTEAALEALLRGFAAEKGVKLGQVAQPLRAALTGSLETPGLFEILALLGKERALRRLERALA</proSeq>
+<proBnd>-------------------------------------------++++-----------------------------------------------------------+-+--+--------------------------------+-+---------------+--------+-------++-------------------------+-----------------------------------+----------------------------+--+------+---------------------+--------------+-------------------------------------++----------------------------------------------------------+---------+----+--+------+-+--++--------------------</proBnd>
+<rnaSeq>GGCCCCAUCGUCUAGCGGUUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCACCA</rnaSeq>
+<rnaBnd>--+-+------++++--------+---------++++++----------------------------+++--+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2GIC" ID="DR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MSVTVKRIIDNTVIVPKLPANEDPVEYPADYFRKSKEIPLYINTTKSLSDLRGYVYQGLKSGNVSIIHVNSYLYGALKDIRGKLDKDWSSFGINIGKAGDTIGIFDLVSLKALDGVLPDGVSDASRTSADDKWLPLYLLGLYRVGRTQMPEYRKKLMDGLTNQCKMINEQFEPLVPEGRDIFDVWGNDSNYTKIVAAVDMFFHMFKKHECASFRYGTIVSRFKDCAALATFGHLCKITGMSTEDVTTWILNREVADEMVQMMLPGQEIDKADSYMPYLIDFGLSSKSPYSSVKNPAFHFWGQLTALLLRSTRARNARQPDDIEYTSLTTAGLLYAYAVGSSADLAQQFCVGDNKYTPDDSTGGLTTNAPPQGRDVVEWLGWFEDQNRKPTPDMMQYAKRAVMSLQGLREKTIGKYAKSEFDK</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------------+--+--+----++-----------------------------------------------------------+--++---++-+-----------------------------------------------------------+----++-------------------+----+------------------------------------------------------------------------------------------+--------------</proBnd>
+<rnaSeq>UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU</rnaSeq>
+<rnaBnd>-++++++++++++++-+-++++++++-++++++-++-+++++-++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3HJW" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>RILPADIKREVLIKDENAETNPDWGFPPEKRPIEMHIQFGVINLDKPPGPTSHEVVAWIKKILNLEKAGHGGTLDPKVSGVLPVALEKATRVVQALLPAGKEYVALMHLHGDVPEDKIIQVMKEFEGEIIQRPPLRSAVKRRLRTRKVYYIEVLEIEGRDVLFRVGVEAGTYIRSLIHHIGLALGVGAHMSELRRTRSGPFKEDETLITLHDLVDYYYFWKEDGIEEYFRKAIQPMEKAVEHLPKVWIKDSAVAAVTHGADLAVPGIAKLHAGIKRGDLVAIMTLKDELVALGKAMMTSQEMLEKTKGIAVDVEKVFMPRDWYPKLW</proSeq>
+<proBnd>----------------------------------------------------++-----+------++-+--------------------+--+-----------------------------------------+----------------------------------------------------------------------------------------------------------------+-++--+--++++++--------------------------------------------++--+++++---+-----++</proBnd>
+<rnaSeq>GGGCCACGGAAACCGCGCGCGGUGAUCAAUGAGCCGCGUUCGCUCCCGUGGCCCACAA</rnaSeq>
+<rnaBnd>--+++---------+-+---------------------+++++++------+-+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3HJW" ID="CD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>KPSYVKFEVPKELAEKALQAVEIARDTGKIRKGTNETTKAVERGQAKLVIIAEDVDPEEIVAHLPPLCEEKEIPYIYVPSKKELGAAAGIEVAAASVAIIEPGKARDLVEEIAMKVKELM</proSeq>
+<proBnd>------------------------------++-+++------+-----------++---+--------------------+--------+----+-------------------------</proBnd>
+<rnaSeq>GGGCCACGGAAACCGCGCGCGGUGAUCAAUGAGCCGCGUUCGCUCCCGUGGCCCACAA</rnaSeq>
+<rnaBnd>---------------------++++---+++---------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3OUY" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKVEEILEKALELVIPDEEEVRKGREAEEELRRRLDELGVEYVFVGSYARNTWLKGSLEIDVFLLFPEEFSKEELRERGLEIGKAVLDSYEIRYAEHPYVHGVVKGVEVDVVPCYKLKEPKNIKSAVDRTPFHHKWLEGRIKGKENEVRLLKGFLKANGIYGAEYKVRGFSGYLCELLIVFYGSFLETVKNARRWTRRTVIDVAKGEVRKGEEFFVVDPVDEKRNVAANLSLDNLARFVHLCREFMEAPSLGFFKPKHPLEIEPERLRKIVEERGTAVFAVKFRKPDIVDDNLYPQLERASRKIFEFLERENFMPLRSAFKASEEFCYLLFECQIKEISRVFRRMGPQFEDERNVKKFLSRNRAFRPFIENGRWWAFEMRKFTTPEEGVRSYASTHWHTLGKNVGESIREYFEIISGEKLFKEPVTAELCEMMGVKDCCCM</proSeq>
+<proBnd>-------------------------------------------------+----------+---------------------------------+++-+---------------------------+-++--+-------------------------------+-------+--------------------------------------------------+++--+-------------------------------------------------------------+----+--+---+------+------------------------------------+------+-------------------------------------+---+-----+---------------------------------------</proBnd>
+<rnaSeq>GGAAGUAGAUGGUUCAAGUCCAUUUACUUCCACCA</rnaSeq>
+<rnaBnd>+++-----------+-----++--------+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3R9X" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>HHHHHHMKVGYVAIVGKPNVGKSTLLNNLLGTKVSIISPKAGTTRMRVLGVKNIPNEAQIIFLDTPGIYEPKKSDVLGHSMVEIAKQSLEEADVILFMIDATEGWRPRDEEIYQNFIKPLNKPVIVVINKIDKIGPAKNVLPLIDEIHKKHPELTEIVPISALKGANLDELVKTILKYLPEGEPLFPEDMITDLPLRLLAAEIVREKAMMLTREEVPTSIAVKINEIKPGDANPNMLVIKGEIIVDRENLKPIIIGKKGQRLKEIGKRARQELELILGRPVYLELWVKVVPDWRRRPEYVRLFGYAL</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+++++-----------+--++-----+--------+-+++++-+-++-++++---+--+----------+++-+++-------+------------</proBnd>
+<rnaSeq>CAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCU</rnaSeq>
+<rnaBnd>+------------------+---++++++++++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4AL5" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSFTMDHYLDIRLRPDPEFPPAQLMCVLFGKLHQALVAQGGDRIGVSFPDLDESRSRLGERLRIHASADDLRALLARPWLEGLRDHLQFGEPAVVPHPTPYRQVSRVQAKSNPERLRRRLMRRHDLSEEEARKRIPDTVARALDLPFVTLRSQSTGQHFRLFIRHGPLQVTAEEGGFTCYGLSKGGFVPWF</proSeq>
+<proBnd>--------------------------------+------------------------------------------------------------------------+-++-++--+--+++--++---------++-------+--------++++-+-++-+-----------------+-----------</proBnd>
+<rnaSeq>UUCACUGCCGUAUAGGCAGC</rnaSeq>
+<rnaBnd>--+++++++++++---++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3OL7" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEIQWMRPSKEVGYPIINAPSKTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLEDAMYGTDGLEALDLSTSAGYPYVAMGKKKRDILNKQTRDTKEMQKLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIEASSLNDSVAMRMAFGNLYAAFHKNPGVITGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGDRVDYIDYLNHSHHLYKNKTYCVKGGMPSGCSGTSIFNSMINNLIIRTLLLKTYKGIDLDHLKMIAYGDDVIASYPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDPRNTQDHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALDLPEYSTLYRRWLDSFGSSSHHHHHH</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------------------+----+--------------------------------------------------------------------------------------------------------+-------------------------------------------------+--------+----------------------------+-++---------------------------------------------+------------------------+----+---+--+---+-------------------------------------------------------</proBnd>
+<rnaSeq>GCCCGGACGAGAGAC</rnaSeq>
+<rnaBnd>-------++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2JLW" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSAMGEPDYEVDEDIFRKKRLTIMDLHPGAGKTKRILPSIVREALKRRLRTLILAPTRVVAAEMEEALRGLPIRYQTPAVKSDHTGREIVDLMCHATFTTRLLSSTRVPNYNLIVMDEAHFTDPCSVAARGYISTRVEMGEAAAIFMTATPPGSIDPFPQSNSPIEDIEREIPERSWNTGFDWITDYQGKTVWFVPSIKAGNDIANCLRKSGKRVIQLSRKTFDTEYPKTKLTDWDFVVTTDISEMGANFRAGRVIDPRRCLKPVILTDGPERVILAGPIPVTPASAAQRRGRIGRNPAQEDDQYVFSGDPLKNDEDHAHWTEAKMLLDNIYTPEGIIPTLFGPEREKTQAIDGEFRLRGEQRKTFVELMRRGDLPVWLSYKVASAGISYKDREWCFTGERNNQILEENMEVEIWTREGEKKKLRPKWLDARVYADPMALKDFKEFASGRK</proSeq>
+<proBnd>---------------------------------------------------------+------------------+-------------------+-------------------------+--------------------------------------------------------------------------+---------------------+--------------------+----------------------------------+-------------------------------------------------------------------------------------------------+---------------------------------------------------------+---+---------------</proBnd>
+<rnaSeq>UAGACUAACAACU</rnaSeq>
+<rnaBnd>+++++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3ZGZ" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGSSHHHHHHSSGLVPRGSHMQEQYRPEEIESKVQLHWDEKRTFEVTEDESKEKYYCLSMLPYPSGRLHMGHVRNYTIGDVIARYQRMLGKNVLQPIGWDAFGLPAEGAAVKNNTAPAPWTYDNIAYMKNQLKMLGFGYDWSRELATCTPEYYRWEQKFFTELYKKGLVYKKTSAVNWCPNDQTVLANEQVIDGCCWRCDTKVERKEIPQWFIKITAYADELLNDLDKLDHWPDTVKTMQRNWIGRSEGVEITFNVNDYDNTLTVYTTRPDTFMGCTYLAVAAGHPLAQKAAENNPELAAFIDECRNTKVAEAEMATMEKKGVDTGFKAVHPLTGEEIPVWAANFVLMEYGTGAVMAVPGHDQRDYEFASKYGLNIKPVILAADGSEPDLSQQALTEKGVLFNSGEFNGLDHEAAFNAIADKLTAMGVGERKVNYRLRDWGVSRQRYWGAPIPMVTLEDGTVMPTPDDQLPVILPEDVVMDGITSPIKADPEWAKTTVNGMPALRETDTFDTFMESSWYYARYTCPQYKEGMLDSEAANYWLPVDIYIGGIEHAIMHLLYFRFFHKLMRDAGMVNSDEPAKQLLCQGMVLADAFYYVGENGERNWVSPVDAIVERDEKGRIVKAKDAAGHELVYTGMSKMSKSKNNGIDPQVMVERYGADTVRLFMMFASPADMTLEWQESGVEGANRFLKRVWKLVYEHTAKGDVAALNVDALTENQKALRRDVHKTIAKVTDDIGRRQTFNTAIAAIMELMNKLAKAPTDGEQDRALMQEALLAVVRMLNPFTPHICFTLWQELKGEGDIDNAPWPVADEKAMVEDSTLVVVQVNGKVRAKITVPVDATEEQVRERAGQEHLVAKYLDGVTVRKVIYVPGKLLNLVVG</proSeq>
+<proBnd>---------------------------------------------------------------------------------------------------+---+-----------------------------------------------------------------------++----------++--------------------+----------------------------+--++--------------------------------------------------------------------++--+-----------------------------------------------------------------------------------------------------------------------+-+-----+++----------------------------------------------------------------+++--+----------------------------------+++--+---+------------------------------------------------------------------------------+-----------------------------+---------------+--+---+--------------------------------------+-------+---+-------+--+------------------------------------------------------------------+-+-------+-+-----------------------+--------+-+-+---+------</proBnd>
+<rnaSeq>GGCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUUUAAAAUCCCUCGGCGUUCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGCACCA</rnaSeq>
+<rnaBnd>-+-+--------+++++--++--+-+++--------------------+------------------+-------------+++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2PXF" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>FDLNDFLEQLRQMKNMGGMASLMGKLPGMGQIPDNVKSQMDDKVLVRMEAIINSMTMKERAKPEIIKGSRKRRIAAGSGMQVQDVNRLLKQFDDMQRMMKKM</proSeq>
+<proBnd>-------------------------------------------------+--++---+-+---------+--+----+------------------------</proBnd>
+<rnaSeq>GGGGGUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCACUUCC</rnaSeq>
+<rnaBnd>---------++-------+++------------++--------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2NUE" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKMLEQLEKKLGYTFKDKSLLEKALTHVSYSKKEHYETLEFLGDALVNFFIVDLLVQYSPNKREGFLSPLKAYLISEEFFNLLAQKLELHKFIRIKRGKINETIIGDVFEALWAAVYIDSGRDANFTRELFYKLFKEDILSAIKEGRVKKDYKTILQEITQKRWKERPEYRLISVEGPHHKKKFIVEAKIKEYRTLGEGKSKKEAEQRAAEELIKLLEESE</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------------------------++--+---+-----+------------+-------------------+-+-------------------</proBnd>
+<rnaSeq>GGGACAAGCGCAAGGUCAUUCGCAAGAGUGGCCUUGCGCUUGUCCC</rnaSeq>
+<rnaBnd>-----+++--------+-----------++++++-------+----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3PTX" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SVTVKRIIDNTVIVPKLPANEDPVEYPADYFRKSKEIPLYINTTKSLSDLRGYVYQGLKSGNVSIIHVNSYLYGALKDIRGKLDKDWSSFGINIGKAGDTIGIFDLVSLKALDGVLPDGVSDASRTSADDKWLPLYLLGLYRVGRTQMPEYRKKLMDGLTNQCKMINEQFEPLVPEGRDIFDVWGNDSNYTKIVAAVDMFFHMFKKHECASFRYGTIVSRFKDCAALATFGHLCKITGMSTEDVTTWILNREVADEMVQMMLPGQEIDKADSYMPYLIDFGLSSKSPYSSVKNPAFHFWGQLTALLLRSTRARNARQPDDIEYTSLTTAGLLYAYAVGSSADLAQQFCVGDNKYTPDDSTGGLTTNAPPQGRDVVEWLGWFEDQNRKPTPDMMQYAKRAVMSLQGLREKTIGKYAKSEFDK</proSeq>
+<proBnd>---------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------++-----------------------------------------------------------------------++-------------------+----+------------------------------------------------------------------------------------------+--------------</proBnd>
+<rnaSeq>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</rnaSeq>
+<rnaBnd>---+++-+----+++-+---++++-+---++++-+---++++-+-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1JBR" ID="BD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ATWTCINQQLNPKTNKWEDKRLLYSQAKAESNSHHAPLSDGKTGSSYPHWFTNGYDGNGKLIKGRTPIKFGKADCDRPPKHSQNGMGKDDHYLLEFPTFPDGHDYKFDSKKPKEDPGPARVIYTYPNKVFCGIVAHQRGNQGDLRLCSH</proSeq>
+<proBnd>----------------------------------------+-----+-++++------------------------------------------------------------+------------------------------------</proBnd>
+<rnaSeq>GCGCUCCUCAGUACGAGAGGAACCGGAGCGC</rnaSeq>
+<rnaBnd>----------++---+-++------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3HJW" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>RILPADIKREVLIKDENAETNPDWGFPPEKRPIEMHIQFGVINLDKPPGPTSHEVVAWIKKILNLEKAGHGGTLDPKVSGVLPVALEKATRVVQALLPAGKEYVALMHLHGDVPEDKIIQVMKEFEGEIIQRPPLRSAVKRRLRTRKVYYIEVLEIEGRDVLFRVGVEAGTYIRSLIHHIGLALGVGAHMSELRRTRSGPFKEDETLITLHDLVDYYYFWKEDGIEEYFRKAIQPMEKAVEHLPKVWIKDSAVAAVTHGADLAVPGIAKLHAGIKRGDLVAIMTLKDELVALGKAMMTSQEMLEKTKGIAVDVEKVFMPRDWYPKLW</proSeq>
+<proBnd>---------------------------------------------------+++-----+------++-++-++-+--------------+--+-----------------------------------------+-+++---+---------------------------+----------------------------------------------------------------------------+-+------++-+----------------------------------------------+---+++++---+------+</proBnd>
+<rnaSeq>GAGCGUGCGGUUU</rnaSeq>
+<rnaBnd>--+++-++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1M5K" ID="FE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMKGT</proSeq>
+<proBnd>------------+-+++-+------------------------+----++-+-+-+-----------------------+----++-++++++-------</proBnd>
+<rnaSeq>GGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG</rnaSeq>
+<rnaBnd>-----------------------------------+++++++---+----------------------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1TTT" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AKGEFIRTKPHVNVGTIGHVDHGKTTLTAALTYVAAAENPNVEVKDYGDIDKAPEERARGITINTAHVEYETAKRHYSHVDCPGHADYIKNMITGAAQMDGAILVVSAADGPMPQTREHILLARQVGVPYIVVFMNKVDMVDDPELLDLVEMEVRDLLNQYEFPGDEVPVIRGSALLALEEMHKNPKTKRGENEWVDKIWELLDAIDEYIPTPVRDVDKPFLMPVEDVFTITGRGTVATGRIERGKVKVGDEVEIVGLAPETRKTVVTGVEMHRKTLQEGIAGDNVGLLLRGVSREEVERGQVLAKPGSITPHTKFEASVYILKKEEGGRHTGFFTGYRPQFYFRTTDVTGVVRLPQGVEMVMPGDNVTFTVELIKPVALEEGLRFAIREGGRTVGAGVVTKILE</proSeq>
+<proBnd>---------------------------------------------------+-------------------------------------++-------------------------------------------------------------------------------------------------------------------------------------------+-----+---------------------------------+--+------------+-+----------+-----------------------------+-+---+--+-+--------+-------------------------+--------------+--------------</proBnd>
+<rnaSeq>GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA</rnaSeq>
+<rnaBnd>++------------------------------------------------+++---------+++-+-----++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2ZM5" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MSDISKASLPKAIFLMGPTASGKTALAIELRKILPVELISVDSALIYKGMDIGTAKPNAEELLAAPHRLLDIRDPSQAYSAADFRRDALAEMADITAAGRIPLLVGGTMLYFKALLEGLSPLPSADPEVRARIEQQAAEQGWESLHRQLQEVDPVAAARIHPNDPQRLSRALEVFFISGKTLTELTQTSGDALPYQVHQFAIAPASRELLHQRIEQRFHQMLASGFEAEVRALFARGDLHTDLPSIRCVGYRQMWSYLEGEISYDEMVYRGVCATRQLAKRQITWLRGWEGVHWLDSEKPEQARDEVLQVVGAIAG</proSeq>
+<proBnd>-----------------------------------------+++---------+--------------------------++-------------------------+-++-------++-+--+----+----------------------------+---++-++--+---------------+--------------------+---+-----------------------------------+++--------------------------++--++---+-+-----------------------------</proBnd>
+<rnaSeq>GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA</rnaSeq>
+<rnaBnd>-------------------------++++++++++++++-+---------------------------+++++---</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1ZSE" ID="BR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQTVGGVELPVAAWRSYLSMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY</proSeq>
+<proBnd>------------------------------------------------+-+---+-+------------------------------------------------------------------------</proBnd>
+<rnaSeq>AUGCAUGUCUAAGACAGCAU</rnaSeq>
+<rnaBnd>------++++++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4K4W" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEIQWMRPSKEVGYPIINAPSKTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLEDAMYGTDGLEALDLSTSAGYPYVAMGKKKRDILNKQTRDTKEMQKLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIEASSLNDSVAMRMAFGNLYAAFHKNPGVITGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGDRVDYIDYLNHSHHLYKNKTYCVKGGMPSGASGTSIFNSMINNLIIRTLLLKTYKGIDLDHLKMIAYGDDVIASYPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDPRNTQDHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALDLPEYSTLYRRWLDSFGSSSHHHHHH</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------------------+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-+----------------------------------------------+------------------------+--------+--+---+-------------------------------------------------------</proBnd>
+<rnaSeq>UGUUCGACGAGAGAGACC</rnaSeq>
+<rnaBnd>----------+++-++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1TFW" ID="BH" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKVEEILEKALELVIPDEEEVRKGREAEEELRRRLDELGVEYVFVGSYARNTWLKGSLEIDVFLLFPEEFSKEELRERGLEIGKAVLDSYEIRYAEHPYVHGVVKGVEVDVVPCYKLKEPKNIKSAVDRTPFHHKWLEGRIKGKENEVRLLKGFLKANGIYGAEYKVRGFSGYLCELLIVFYGSFLETVKNARRWTRRTVIDVAKGEVRKGEEFFVVDPVDEKRNVAANLSLDNLARFVHLCREFMEAPSLGFFKPKHPLEIEPERLRKIVEERGTAVFAVKFRKPDIVDDNLYPQLERASRKIFEFLERENFMPLRSAFKASEEFCYLLFECQIKEISRVFRRMGPQFEDERNVKKFLSRNRAFRPFIENGRWWAFEMRKFTTPEEGVRSYASTHWHTLGKNVGESIREYFEIISGEKLFKEPVTAELCEMMGVKD</proSeq>
+<proBnd>----------------------------------------------------------+-+---------------------------------+++-+----------+----------------+--+--------------------------------+-+----------------------------------------------------------++---+-------------------------------------------------------------+-----------+------+---------------------------------------------------------------------------------+---+--+--------------------------------------</proBnd>
+<rnaSeq>GCGGAUCCGCACC</rnaSeq>
+<rnaBnd>+++++++--++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1B7F" ID="AP" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNTNLIVNYLPQDMTDRELYALFRAIGPINTCRIMRDYKTGYSYGYAFVDFTSEMDSQRAIKVLNGITVRNKRLKVSYARPGGESIKDTNLYVTNLPRTITDDQLDTIFGKYGSIVQKNILRDKLTGRPRGVAFVRYNKREEAQEAISALNNVIPEGGSQPLSVRLA</proSeq>
+<proBnd>------+--+--+--------------------+--+-+---++++--+------------------------+------+---------+-+-++--------------------++------------+-+-+------------------------------+-+</proBnd>
+<rnaSeq>GUUGUUUUUUUU</rnaSeq>
+<rnaBnd>--++++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3ADB" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MNHKVHHHHHHMLIILTGLPGVGKSTFSKNLAKILSKNNIDVIVLGSDLIRESFPVWKEKYEEFIKKSTYRLIDSALKNYWVIVDDTNYYNSMRRDLINIAKKYNKNYAIIYLKASLDVLIRRNIERGEKIPNEVIKKMYEKFDEPGKKYKWDEPFLIIDTTKDIDFNEIAKKLIEKSKEIPKFYVLEENKNKNNNISDKIDKETRKIVSEYIKSKKLDKDKIKEVVELRKEFLKKIKKMEEVDADRVLKEFKDLLNSY</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------+---------------------------++---+---------------++---------------------------------------+---------+---+--++--++--------+-----------+--+---------------------</proBnd>
+<rnaSeq>GGCCGCCGCCACCGGGGUGGUCCCCGGGCCGGACUUCAGAUCCGGCGCGCCCCGAGUGGGGCGCGGGGUUCAAUUCCCCGCGGCGGCCGCCA</rnaSeq>
+<rnaBnd>++-----------------++-+++-----------------++--------------------------++-+------+--+++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3U4M" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MPKHGKRYRALLEKVDPNKIYTIDEAAHLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGLGKQVRVLAIAKGEKIKEAEEAGADYVGGEEIIQKILDGWMDFDAVVATPDVMGAVGSKLGRILGPRGLLPNPKAGTVGFNIGEIIREIKAGRIEFRNDKTGAIHAPVGKASFPPEKLADNIRAFIRALEAHKPEGAKGTFLRSVYVTTTMGPSVRINPHS</proSeq>
+<proBnd>---+++++----------------------------+---+-+-+-------------------------+---------------------------------------------------------------+-----------------------------+-+++---+--------------------------------------+-+---+-+-+-------</proBnd>
+<rnaSeq>GGGAUGCGUAGGAUAGGUGGGAGCCUGUGAACCCCCGCCUCCGGGUGGGGGGGAGGCGCCGGUGAAAUACCACCCUUCCC</rnaSeq>
+<rnaBnd>---------------+++++++-+++++-------------------------------------+---+++++------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1ASY" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>EDTAKDNYGKLPLIQSRDSDRTGQKRVKFVDLDEAKDSDKEVLFRARVHNTRQQGATLAFLTLRQQASLIQGLVKANKEGTISKNMVKWAGSLNLESIVLVRGIVKKVDEPIKSATVQNLEIHITKIYTISETPEALPILLEDASRSEAEAEAAGLPVVNLDTRLDYRVIDLRTVTNQAIFRIQAGVCELFREYLATKKFTEVHTPKLLGAPSEGGSSVFEVTYFKGKAYLAQSPQFNKQQLIVADFERVYEIGPVFRAENSNTHRHMTEFTGLDMEMAFEEHYHEVLDTLSELFVFIFSELPKRFAHEIELVRKQYPVEEFKLPKDGKMVRLTYKEGIEMLRAAGKEIGDFEDLSTENEKFLGKLVRDKYDTDFYILDKFPLEIRPFYTMPDPANPKYSNSYDFFMRGEEILSGAQRIHDHALLQERMKAHGLSPEDPGLKDYCDGFSYGCPPHAGGGIGLERVVMFYLDLKNIRRASLFPRDPKRLRP</proSeq>
+<proBnd>-------------------------------------------------+--+----+-+------------+-+------------+----------------------++++------+-------------+------------------------+--+------------------------------------------------------------------------------------------------++++---++--+-------------------------------------------------------------------------------------+-----------------------------------------------------+---------------------------------------------------++----------+---------------</proBnd>
+<rnaSeq>UCCGUGAUAGUUUAAUGGUCAGAAUGGGCGCUUGUCGCGUGCCAGAUCGGGGUUCAAUUCCCCGUCGCGGAGCCA</rnaSeq>
+<rnaBnd>+----------+--------------+--+--++++-+--------------------------------+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1FFY" ID="AT" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MDYEKTLLMPKTDFPMRGGLPNKEPQIQEKWDAEDQYHKALEKNKGNETFILHDGPPYANGNLHMGHALNKILKDFIVRYKTMQGFYAPYVPGWDTHGLPIEQALTKKGVDRKKMSTAEFREKCKEFALEQIELQKKDFRRLGVRGDFNDPYITLKPEYEAAQIRIFGEMADKGLIYKGKKPVYWSPSSESSLAEAEIEYHDKRSASIYVAFNVKDDKGVVDADAKFIIWTTTPWTIPSNVAITVHPELKYGQYNVNGEKYIIAEALSDAVAEALDWDKASIKLEKEYTGKELEWVVAQHPFLDRESLVINGDHVTTDAGTGCVHTAPGHGEDDYIVGQQYELPVISPIDDKGVFTEEGGQFEGMFYDKANKAVTDLLTEKGALLKLDFITHSYPHDWRTKKPVIFRATPQWFASISKVRQDILDAIENTNFKVNWGKTRIYNMVRDRGEWVISRQRVWGVPLPVFYAENGEIIMTKETVNHVADLFAEHGSNIWFEREAKDLLPEGFTHPGSPNGTFTKETDIMDVWFDSGSSHRGVLETRPELSFPADMYLEGSDQYRGWFNSSITTSVATRGVSPYKFLLSHGFVMDGEGKKMSKSLGNVIVPDQVVKQKGADIARLWVSSTDYLADVRISDEILKQTSDDYRKIRNTLRFMLGNINDFNPDTDSIPESELLEVDRYLLNRLREFTASTINNYENFDYLNIYQEVQNFINVELSNFYLDYGKDILYIEQRDSHIRRSMQTVLYQILVDMTKLLAPILVHTAEEVWSHTPHVKEESVHLADMPKVVEVDQALLDKWRTFMNLRDDVNRALETARNEKVIGKSLEAKVTIASNDKFNASEFLTSFDALHQLFIVSQVKVVDKLDDQATAYEHGDIVIEHADGEKCERCWNYSEDLGAVDELTHLCPRCQQVVKSLV</proSeq>
+<proBnd>---+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------+----------------------------------------------------------------------------------------------------------+--+----------------------------------------------------------------------------------------------------------------+---+--------------------------------+-+----------------------------+-+-+-+-+---+---+--+---+--+--++------------------------------------------------+--+--++--+---++---+--+---+---------------------------------------------------------------------------+---+---+--+------+------------------------------------------------------------------+---------------------------</proBnd>
+<rnaSeq>GGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCCAC</rnaSeq>
+<rnaBnd>--+++----+++++---------+++-------+++--++++--------------------------+++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2VPL" ID="CD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>PKHGKRYRALLEKVDPNKIYTIDEAAHLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGGRIEFRNDKTGAIHAPVGKASFPPEKLADNIRAFIRALEAHKPEGAKGTFLRSVYVTTTMGPSVRINPHS</proSeq>
+<proBnd>--+++++----------------------------+---+-+---+--------------------------+-+-+------------------------------------------+-----+-+-+-------</proBnd>
+<rnaSeq>GGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC</rnaSeq>
+<rnaBnd>-----+++++--+++-------+---------------+++++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3NMU" ID="GD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MHHHHHHAKPSYVKFEVPKELAEKALQAVEIARDTGKIRKGTNETTKAVERGQAKLVIIAEDVDPEEIVAHLPPLCEEKEIPYIYVPSKKELGAAAGIEVAAASVAIIEPGKARDLVEEIAMKVKELMK</proSeq>
+<proBnd>---------------------------------------+-+++--+---+------------+---+-----------------------------+-++-+--------------------------</proBnd>
+<rnaSeq>GCCGUUGAAGCUCUGACCGAAAGGCGUGAUGAGC</rnaSeq>
+<rnaBnd>-----------+-+++--------++++------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3NMU" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MHHHHHHVMIMKAFISENVRGIYAFDENGNLIEKRYFTDKPEKVLDQLLKGEITKDLEELLNSLKEKGYDEFVFEHPELSRRAKELGFSATTEFPNIAGERLRSNPEEFLGENWFEEYYKVGVALTRMRIQEQSGARDKMVIQAIEALDDVDKVINLLVARLREWYSLHFPELDELLPKHPQYVAFVKTVGHRDNINEEVLRELGLSEEKIKKILEAKEKTMGAWMDQTDIEVVRQLAEEIDRLYQLRKKLEDYIDRAMDDVAPNLKALVGAKLAARLISLAGGLRELAMMPSSTIQVLGAEKALFRHLRTGAKPPKHGVIYQYPAINRSPWWQRGKIARALAGKLAIAARVDYFSGEYIAEELKKELEARIREIKEKY</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--++----------+----++-++---+-------------++--+---------------------------------------</proBnd>
+<rnaSeq>GCCGUUGAAGCUCUGACCGAAAGGCGUGAUGAGC</rnaSeq>
+<rnaBnd>-----------++-+--+----------++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1WSU" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSETQKKLLKDLEDKYRVSRWQPPSFKEVAGSFNLDPSELEELLHYLVREGVLVKINDEFYWHRQALGEAREVIKNLASTGPFGLAEARDALGSSRKYVLPLLEYLDQVKFTRRVGDKRVVVGN</proSeq>
+<proBnd>------------------------------------------------------------------------------------++--+-----+++--+---+------------+-+-----</proBnd>
+<rnaSeq>GGCGUUGCCGGUCUGGCAACGCC</rnaSeq>
+<rnaBnd>------++++++-----------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2F8S" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGKEALLNLYRIEYRPKDTTFTVFKPTHEIQKEKLNKVRWRVFLQTGLPTFRREDEFWCAGKVEKDTLYLTLSNGEIVELKRVGEEEFRGFQNERECQELFRDFLTKTKVKDKFISDFYKKFRDKITVQGKNRKIALIPEVNEKVLKSEEGYFLLHLDLKFRIQPFETLQTLLERNDFNPKRIRVKPIGIDFVGRVQDVFKAKEKGEEFFRLCMERSTHKSSKKAWEELLKNRELREKAFLVVLEKGYTYPATILKPVLTYENLEDEERNEVADIVRMEPGKRLNLIRYILRRYVKALRDYGWYISPEEERAKGKLNFKDTVLDAKGKNTKVITNLRKFLELCRPFVKKDVLSVEIISVSVYKKLEWRKEEFLKELINFLKNKGIKLKIKGKSLILAQTREEAKEKLIPVINKIKDVDLVIVFLEEYPKVDPYKSFLLYDFVKRELLKKMIPSQVILNRTLKNENLKFVLLNVAEQVLAKTGNIPYKLKEIEGKVDAFVGIDISRITRDGKTVNAVAFTKIFNSKGELVRYYLTSYPAFGEKLTEKAIGDVFSLLEKLGFKKGSKIVVHRDGRLYRDEVAAFKKYGELYGYSLELLEIIKRNNPRFFSNEKFIKGYFYKLSEDSVILATYNQVYEGTHQPIKVRKVYGELPVEVLCSQILSLTLMNYSSFQPIKLPATVHYSDKITKLMLRGIEPIKKEGDIMYWL</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>AGACAGCAUAUAUGCUGUCUUU</rnaSeq>
+<rnaBnd>-------------------+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2Y8W" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GTGAMWLTKLVLNPASRAARRDLANPYEMHRTLSKAVSRALEEGRERLLWRLEPARGLEPPVVLVQTLTEPDWSVLDEGYAQVFPPKPFHPALKPGQRLRFRLRANPAKRLAATGKRVALKTPAEKVAWLERRLEEGGFRLLEGERGPWVQILQDTFLEVRRKKDGEEAGKLLQVQAVLFEGRLEVVDPERALATLRRGVGPGKALGLGLLSVAP</proSeq>
+<proBnd>--------------------+-----++-++--++--+--++----+-----------------------------+----------------------------+-++++++--++--+----+---+--++-----------------------+----+--+-----++++-+---------------------++-+-+++----------</proBnd>
+<rnaSeq>UCCCCACGCGUGUGGGGAUG</rnaSeq>
+<rnaBnd>++++------++++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3R2C" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MRYRKGARDTAFLVLYRWDLRGENPGELFKEVVEEKNIKNKDAYEYAKKLVDTAVRHIEEIDSIIEKHLKGWSIDRLGYVERNALRLGVAELIFLKSKEPGRVFIDIVDLVKKYADEKAGKFVNGVLSAIYKAYITSSKEEKPSLKSE</proSeq>
+<proBnd>-+--------------------------------------------------------------------------+---+-----------------+--+-++--+---+---------+---+-++-------------------</proBnd>
+<rnaSeq>GGCUCCUUGGCA</rnaSeq>
+<rnaBnd>+++++-+++---</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1L9A" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MIIWPSYIDKKKSRREGRKVPEELAIEKPSLKDIEKALKKLGLEPKIYRDKRYPRQHWEIAGRVEVDYKGNKLCLLKEIAKIIKGKN</proSeq>
+<proBnd>-+-+--+-----+++--++--+----------------------------++-++-+-------------++----+----------</proBnd>
+<rnaSeq>GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUC</rnaSeq>
+<rnaBnd>-----------------------------++++-++-+++--------------------------------------------+++-----++----------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3CUL" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMK</proSeq>
+<proBnd>------------+--+--+------------------------+---+++-+-+-+-----------------------+--+-++-+-+++------</proBnd>
+<rnaSeq>GGAUGGCGAAAGCCAUUUCCGCAGGCCCCAUUGCACUCCGGGGUAUUGGCGUUAGGUGGUGGUACGAGGUUCGAAUCCUCGUACCGCAGCCA</rnaSeq>
+<rnaBnd>-----------------------------+++++++--++----------------------------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2FK6" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MELLFLGTGAGIPAKARNVTSVALKLLEERRSVWLFDCGEATQHQMLHTTIKPRKIEKIFITHMAGDHVYGLPGLLGSRSFQGGEDELTVYGPKGIKAFIETSLAVTKTHLTYPLAIQEIEEGIVFEDDQFIVTAVSVIHGVEAFGYRVQEKDVPGSLKADVLKEMNIPPGPVYQKIKKGETVTLEDGRIINGNDFLEPPKKGRSVVFSGDTRVSDKLKELARDCDVMVHEATFAKEDRKLAYDYYHSTTEQAAVTAKEARAKQLILTHISARYQGDASLELQKEAVDVFPNSVAAYDFLEVNVPRGKLAAALEHHHHHH</proSeq>
+<proBnd>------------------------------+--------------------+----------------------------+---------------------------------------------------------------------------++---------------++--+----------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GCUUCCAUAGCUCAGCAGGUAGAGCACUUCCAUGGUAAGGAAGAGGUCAGCGGUUCGAGCCCGCUUGGAAGCUUAAAUG</rnaSeq>
+<rnaBnd>--+---------------+-----------------------------------++----+-----------+------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2ZUE" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MLMEIRESVKERIEEIIKEIAPQWEGEIELKETPDPKLGDFGTPIAFKLAKLLKRPPIEIAEKIVEKLKLNLPEGIKDVKAVNGYINVFIDYPHFARILINDILAKGDRFGSSEIGKGKKVIVEHTSVNPTKPLHMGHARNAILGDVMARILRFLGYEVEVQNYIDDLGIQFAQVYWGYLRLKEEFERIMNELRERGLKDNPIDHALGLLYVEVNRRLEDNPELENEIRDIMKKLESGELYGRKLAEEVVRAQMVTTYKLGVKYDLLVWESDIVRRKLFEIALELLSKNENFYIPSDGKYRGAFVMDLRKLFPDMKNPILVLRRSDGTATYTGKDIAYHLWKFGKIDVDLLYKEWDSTTWTTAPDGKSMPNKFGNANIVINVIGAEQKHPQLAIKYALQLLGFEDAAANLYHLAYEHVERPEGKFSGRKGTWVGFTVDEVIQEAVKRARELIEEKNPALSDEEKAEVAEKVGIGAIRYNLIKYSPDKKIIFRWEDVLNFEGESAPYIQYAHARCSSILRKAEEEGIKVDPETLFKNADFTKLSERERELVIMLSKFPRIVEQAGKDVKPHLIAWFANELASLFNKFYMDHPVLKAEEGVREARLLLVMAVEQVLKNALYLMGIEAPERM</proSeq>
+<proBnd>------------------------------+--+---+-----+--+---+------------------------------+--+-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+------------------------------------------------------------+-++--------------------------+-------+-----------------------+--+---+---------------+---------------+-----------+-++--++--+---+---+---------------------------+---------------------------------------+-+--+-+++----------------------------------+</proBnd>
+<rnaSeq>GGACCGGUAGCCUAGCCAGGACAGGGCGGCGGCCUCCUAAGCCGCAGGUCCGGGGUUCAAAUCCCCGCCGGUCCGCCA</rnaSeq>
+<rnaBnd>---+--+-----+------++--++++---------+++++++--------------+------------+++-++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1C0A" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MRTEYCGQLRLSHVGQQVTLCGWVNRRRDLGSLIFIDMRDREGIVQVFFDPDRADALKLASELRNEFCIQVTGTVRARDEKNINRDMATGEIEVLASSLTIINRADVLPLDSNHVNTEEARLKYRYLDLRRPEMAQRLKTRAKITSLVRRFMDDHGFLDIETPMLTKATPEGARDYLVPSRVHKGKFYALPQSPQLFKQLLMMSGFDRYYQIVKCFRDEDLRADRQPEFTQIDVETSFMTAPQVREVMEALVRHLWLEVKGVDLGDFPVMTFAEAERRYGSDKPDLRNPMELTDVADLLKSVEFAVFAGPANDPKGRVAALRVPGGASLTRKQIDEYGNFVKIYGAKGLAYIKVNERAKGLEGINSPVAKFLNAEIIEDILDRTAAQDGDMIFFGADNKKIVADAMGALRLKVGKDLGLTDESKWAPLWVIDFPMFEDDGEGGLTAMHHPFTSPKDMTAAELKAAPENAVANAYDMVINGYEVGGGSVRIHNGDMQQTVFGILGINEEEQREKFGFLLDALKYGTPPHAGLAFGLDRLTMLLTGTDNIRDVIAFPKTTAAACLMTEAPSFANPTALAELSIQVVK</proSeq>
+<proBnd>--------------------------++++-+--+----------+----+------------+-------------+---+-+-----------------------+--+-+-+-+-+-------------------------------------------------++---+------------------+--+----------------------+++++++---------------------------------------------------------------------------------------------------------------------++-------------------------------------------------------+---+----------------------------------------------+-------------------------------------------------------------------------------------+-----------+-------++---------------------------</proBnd>
+<rnaSeq>GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA</rnaSeq>
+<rnaBnd>-----+---+-+-------------+-++---++-++-+----------------------------++++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1H4Q" ID="AT" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAKEKGLTPQSQDFSEWYLEVIQKAELADYGPVRGTIVVRPYGYAIWENIQQVLDRMFKETGHQNAYFPLFIPMSFLRKEAEHVEGFSPELAVVTHAGGEELEEPLAVRPTSETVIGYMWSKWIRSWRDLPQLLNQWGNVVRWEMRTRPFLRTSEFLWQEGHTAHATREEAEEEVRRMLSIYARLAREYAAIPVIEGLKTEKEKFAGAVYTTTIEALMKDGKALQAGTSHYLGENFARAFDIKFQDRDLQVKYVHTTSWGLSWRFIGAIIMTHGDDRGLVLPPRLAPIQVVIVPIYKDESRERVLEAAQGLRQALLAQGLRVHLDDRDQHTPGYKFHEWELKGVPFRVELGPKDLEGGQAVLASRLGGKETLPLAALPEALPGKLDAFHEELYRRALAFREDHTRKVDTYEAFKEAVQEGFALAFHCGDKACERLIQEETTATTRCVPFEAEPEEGFCVRCGRPSAYGKRVVFAKAY</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------------------------------+++--------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>CGGGGAGUAGCGCAGCCCGGUAGCGCACCUCGUUCGGGACGAGGGGGGCGCUGGUUCAGAUCCAGUCUCCCCGACCA</rnaSeq>
+<rnaBnd>----------------------------++----+++++----+---------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1GAX" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MDLPKAYDPKSVEPKWAEKWAKNPFVANPKSGKPPFVIFMPPPNVTGSLHMGHALDNSLQDALIRYKRMRGFEAVWLPGTDHAGIATQVVVERLLLKEGKTRHDLGREKFLERVWQWKEESGGTILKQLKRLGASADWSREAFTMDEKRSRAVRYAFSRYYHEGLAYRAPRLVNWCPRCETTLSDLEVETEPTPGKLYTLRYEVEGGGFIEIATVRPETVFADQAIAVHPEDERYRHLLGKRARIPLTEVWIPILADPAVEKDFGTGALKVTPAHDPLDYEIGERHGLKPVSVINLEGRMEGERVPEALRGLDRFEARRKAVELFREAGHLVKEEDYTIALATCSRCGTPIEYAIFPQWWLRMRPLAEEVLKGLRRGDIAFVPERWKKVNMDWLENVKDWNISRQLWWGHQIPAWYCEDCQAVNVPRPERYLEDPTSCEACGSPRLKRDEDVFDTWFSSALWPLSTLGWPEETEDLKAFYPGDVLVTGYDILFLWVSRMEVSGYHFMGERPFKTVLLHGLVLDEKGQKMSKSKGNVIDPLEMVERYGADALRFALIYLATGGQDIRLDLRWLEMARNFANKLYNAARFVLLSREGFQAKEDTPTLADRFMRSRLSRGVEEITALYEALDLAQAAREVYELVWSEFCDWYLEAAKPALKAGNAHTLRTLEEVLAVLLKLLHPMMPFLTSELYQALTGKEELALEAWPEPGGRDEEAERAFEALKQAVTAVRALKAEAGLPPAQEVRVYLEGETAPVEENLEVFRFLSRADLLPERPAKALVKAMPRVTARMPLEGLLDVEEWRRRQEKRLKELLALAERSQRKLASPGFREKAPKEVVEAEEARLKENLEQAERIREALSQIG</proSeq>
+<proBnd>----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+--+-+--+--------+--+-------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-+-++---------+--++-++----------------------------------------------+------+---++--++--+-------------------------------------------------------------------------------------+------------------------------------------------------------------+-------+--+---------+--++---+------+-------------------</proBnd>
+<rnaSeq>GGGCGGCUAGCUCAGCGGAAGAGCGCUCGCCUCACACGCGAGAGGUCGUAGGUUCAAGUCCUACGCCGCCCACCA</rnaSeq>
+<rnaBnd>----+-----++++---++++++--------+-++-++++--+-----------+-----------------+-+</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2CSX" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MTLMKKFYVTTPIYYVNDVPHLGHAYTTIAADTIARYYRLRDYDVFFLTGTDEHGLKIQKKAEELGISPKELVDRNAERFKKLWEFLKIEYTKFIRTTDPYHVKFVQKVFEECYKRGDIYLGEYEGWYCVGCEEFKSEAELAEDHTCPIHQKKCEYIKEPSYFFRLSKYQDKLLELYEKNPEFIQPDYRRNEIISFVKQGLKDLSVTRPRSRVKWGIPVPFDPEHTIYVWFDALFNYISALEDKVEIYWPADLHLVGKDILRFHTVYWPAFLMSLGYELPKKVFAHGWWTVEGKKMSKTLGNVVDPYEVVQEYGLDEVRYFLLREVPFGQDGDFSKKAILNRINGELANEIGNLYSRVVNMAHKFLGGEVSGARDEEYAKIAQESIKNYENYMEKVNFYKAIEEILKFTSYLNKYVDEKQPWALNKERKKEELQKVLYALVDGLFVLTHLLYPITPNKMKEALQMLGEKEFLKELKPYSKNTYKLGERKILFPKREG</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------+--------------------------------------------------------------------------------------+---+--++--------------------------------------------------------+-++----+-------------------------------------------------------------------+-+-+---</proBnd>
+<rnaSeq>GGCGGCGUAGCUCAGCUGGUCAGAGCGGGGAUCUCAUAAGUCCCAGGUCGGAGGUUCGAGUCCUCCCGCCGCCAC</rnaSeq>
+<rnaBnd>----------------------------------+++-++++----------------------------+++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1B23" ID="PR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AKGEFIRTKPHVNVGTIGHVDHGKTTLTAALTYVAAAENPNVEVKDYGDIDKAPEERARGITINTAHVEYETAKRHYSHVDCPGHADYIKNMITGAAQMDGAILVVSAADGPMPQTREHILLARQVGVPYIVVFMNKVDMVDDPELLDLVEMEVRDLLNQYEFPGDEVPVIRGSALLALEEMHKNPKTKRGENEWVDKIWELLDAIDEYIPTPVRDVDKPFLMPVEDVFTITGRGTVATGRIERGKVKVGDEVEIVGLAPETRKTVVTGVEMHRKTLQEGIAGDNVGLLLRGVSREEVERGQVLAKPGSITPHTKFEASVYILKKEEGGRHTGFFTGYRPQFYFRTTDVTGVVRLPQGVEMVMPGDNVTFTVELIKPVALEEGLRFAIREGGRTVGAGVVTKILE</proSeq>
+<proBnd>-+----------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------++----+---------------------------------+-----------------+----------------------------------------+-+--+---+-+--------+-------------------------+-------------++--------------</proBnd>
+<rnaSeq>GGCGCGUUAACAAAGCGGUUAUGUAGCGGAUUGCAAAUCCGUCUAGUCCGGUUCGACUCCGGAACGCGCCUCCA</rnaSeq>
+<rnaBnd>+-----------------------------------------------+++---------+++++-------++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2HVY" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MARDEVRRILPADIKREVLIKDENAETNPDWGFPPEKRPIEMHIQFGVINLDKPPGPTSHEVVAWIKKILNLEKAGHGGTLDPKVSGVLPVALEKATRVVQALLPAGKEYVALMHLHGDVPEDKIIQVMKEFEGEIIQRPPLRSAVKRRLRTRKVYYIEVLEIEGRDVLFRVGVEAGTYIRSLIHHIGLALGVGAHMSELRRTRSGPFKEDETLITLHDLVDYYYFWKEDGIEEYFRKAIQPMEKAVEHLPKVWIKDSAVAAVTHGADLAVPGIAKLHAGIKRGDLVAIMTLKDELVALGKAMMTSQEMLEKTKGIAVDVEKVFMPRDWYPKLWEKRDRSHHHHHH</proSeq>
+<proBnd>------------------------------------------------------+----++---------------+--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-++--+-+++++++--------------------------------------------++------+---+----+-+------------</proBnd>
+<rnaSeq>GGGUCCGCCUUGAGUGCCCGGGUGAGAAGCAUGAUCCCGGGUAAUUAUGGCGGACCCACAGAAUU</rnaSeq>
+<rnaBnd>--+++-----------+-+---------------------++--+---------+++++++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2HVY" ID="DE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAAKPSYVKFEVPKELAEKALQAVEIARDTGKIRKGTNETTKAVERGQAKLVIIAEDVDPEEIVAHLPPLCEEKEIPYIYVPSKKELGAAAGIEVAAASVAIIEPGKARDLVEEIAMKVKELMKHHHHHH</proSeq>
+<proBnd>---------------------------------++-+++--+---+-----------++---+--------------------+--------+-++-+--------------------------------</proBnd>
+<rnaSeq>GGGUCCGCCUUGAGUGCCCGGGUGAGAAGCAUGAUCCCGGGUAAUUAUGGCGGACCCACAGAAUU</rnaSeq>
+<rnaBnd>--------------------+++++----++++--------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2XDB" ID="AG" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKFYTISSKYIEYLKEFDDKVPNSEDPTYQNPKAFIGIVLEIQGHKYLAPLTSPKKWHNNVKESSLSCFKLHENGVPENQLGLINLKFMIPIIEAEVSLLDLGNMPNTPYKRMLYKQLQFIRANSDKIASKSDTLRNLVLQGKMQGTCNFSLLEEKYRDFGKEAEDTEEGE</proSeq>
+<proBnd>--------------+---++--+---------------------------------++-+-++-++---------------------+---------------------------------------------+--++-----+---------------------------</proBnd>
+<rnaSeq>AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAAAUUC</rnaSeq>
+<rnaBnd>++-++---------++---++-------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1ZHO" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>PKHGKRYRALLEKVDPNKIYTIDEAAHLVKELATAKFDETVEVHAKLGIDPRRSDQNVRGTVSLPHGLGKQVRVLAIAKGEKIKEAEEAGADYVGGEEIIQKILDGWMDFDAVVATPDVMGAVGSKLGRILGPRGLLPNPKAGTVGFNIGEIIREIKAGRIEFRNDKTGAIHAPVGKASFPPEKLADNIRAFIRALEAHKPEGAKGTFLRSVYVTTTMGPSVRINPHS</proSeq>
+<proBnd>+-+--++----------------------------+---+-+---+-----------------------+---------------------------------------------------------------------------------------------+-+++---+--------------------------------------+-----+---+-------</proBnd>
+<rnaSeq>GGGAGUGAAGGAGGCUUCGGCCGCGAAACUUCACUCCC</rnaSeq>
+<rnaBnd>-++---++-++-++++-------------++++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4K4W" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEIQWMRPSKEVGYPIINAPSKTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLEDAMYGTDGLEALDLSTSAGYPYVAMGKKKRDILNKQTRDTKEMQKLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIEASSLNDSVAMRMAFGNLYAAFHKNPGVITGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGDRVDYIDYLNHSHHLYKNKTYCVKGGMPSGASGTSIFNSMINNLIIRTLLLKTYKGIDLDHLKMIAYGDDVIASYPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDPRNTQDHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALDLPEYSTLYRRWLDSFGSSSHHHHHH</proSeq>
+<proBnd>-----------------+-+-+-+-+------------------------------------------------------------------------------------+---+------------------------------------------------------------+-----------+----------------------++----------------------------------------------------------------------------++-+-+-------------------------------+-------------------------------------------------------------------------------+-+---------------------------------------------------------------</proBnd>
+<rnaSeq>GGGAGAUGAAAGUCUCCAGGUCUCUCUCGUCGAAA</rnaSeq>
+<rnaBnd>+++------------++++++--------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2OZB" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSMTEADVNPKAYPLADAHLTKKLLDLVQQSCNYKQLRKGANEATKTLNRGISEFIVMAADAEPLEIILHLPLLCEDKNVPYVFVRSKQALGRACGVSRPVIACSVTIKEGSQLKQQIQSIQQSIERLLV</proSeq>
+<proBnd>-------------------------------------+--+++--+---+------------+---+--------------------+--------+-+--+----------------------------</proBnd>
+<rnaSeq>AUCGUAGCCAAUGAGGUUUAUCCGAGGCGCGAU</rnaSeq>
+<rnaBnd>---------++++--------++++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2OZB" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GPLGSEVMGPVEAAPEYRVIVDANNLTVEIENELNIIHKFIRDKYSKRFPELESLVPNALDYIRTVKELGNSLDKCKNNENLQQILTNATIMVVSVTASTTQGQQLSEEELERLEEACDMALELNASKHRIYEYVESRMSFIAPNLSIIIGASTAAKIMGVAGGLTNLSKMPACNIMLLGAQRKTLSGFSSTSVLPHTGYIYHSDIVQSLPPDLRRKAARLVAAKCTLAARVDSFHESTEGKVGYELKDEIERKFDKWQE</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+++----------------+----------------------+----+-----------------------------------</proBnd>
+<rnaSeq>AUCGUAGCCAAUGAGGUUUAUCCGAGGCGCGAU</rnaSeq>
+<rnaBnd>---------++++-+--++++++++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4L8R" ID="CA" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGSSHHHHHHSSGLVPRGSHMPADFETDESVLMRRQKQINYGKNTIAYDRYIKEVPRHLRQPGIHPKTPNKFKKYSRRSWDQQIKLWKVALHFWDPPAEEGCDLQEIHPVDLESAESSSE</proSeq>
+<proBnd>------------------------------------+---+---------------------------------+++++-+---+--+---+----------------------------</proBnd>
+<rnaSeq>CCAAAGGCUCUUUUCAGAGCCACCCA</rnaSeq>
+<rnaBnd>--++++++++-++++++++++--+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4L8R" ID="BA" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>TSSASDFSDPVYKEIAITNGCINRMSKEELRAKLSEFKLETRGVKDVLKKRLKNYYKKQKLMLKESNFADSYYDYICIIDFEATCEEGNPPEFVHEIIEFPVVLLNTHTLEIEDTFQQYVRPEINTQLSDFCISLTGITQDQVDRADTFPQVLKKVIDWMKLKELGTKYKYSLLTDGSWDMSKFLNIQCQLSRLKYPPFAKKWINIRKSYGNFYKVPRSQTKLTIMLEKLGMDYDGRPHCGLDDSKNIARIAVRMLQDGCELRINEKMHAGQLMSVSSSLPIEGTPPPQMPHFRKLEHHHHHH</proSeq>
+<proBnd>-----------++--++-++--++-------------------------+--+---+------------------------++-+---+-----------------------------------------+---+------------------------------------------+++--------------------------++---+--------++---------------------+--------------------+------------+-------------------------</proBnd>
+<rnaSeq>CCAAAGGCUCUUUUCAGAGCCACCCA</rnaSeq>
+<rnaBnd>-----------++++++++++--+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2ANN" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>PLGSQYFLKVLIPSYAAGSIIGKGGQTIVQLQKETGATIKLSKSKDFYPGTTERVCLIQGTIEALNAVHGFIAEKIREMPQNVAKTEPVSILQPQTTVNPDRANQVKIIVPNSTAGLIIGKGGATVKAIMEQSGAWVQLSQKPDGINLQNRVVTVSGEPEQNRKAVELIIQKIQEDPQ</proSeq>
+<proBnd>-----------------++-+--+-------+--------+-++---------+----------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>CGCGCGGAUCAGUCACCCAAGCGCG</rnaSeq>
+<rnaBnd>----------+++++++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1K8W" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGHHHHHHHHHHSSGHIEGRHMDINGVLLLDKPQGMSSNDALQKVKRIYNANRAGHTGALDPLATGMLPICLGEATKFSQYLLDSDKRYRVIARLGQRTDTSDADGQIVEERPVTFSAEQLAAALDTFRGDIEQIPSMYSALKYQGKKLYEYARQGIEVPREARPITVYELLFIRHEGNELELEIHCSKGTYIRTIIDDLGEKLGCGAHVIYLRRLAVSKYPVERMVTLEHLRELVEQAEQQDIPAAELLDPLLMPMDSPASDYPVVNLPLTSSVYFKNGNPVRTSGAPLEGLVRVTEGENGKFIGMGEIDDEGRVAPRRLVVEYPA</proSeq>
+<proBnd>------------------------------------+++--+---+-------+-+--+-+--------------++-++---+------------------+-----------------------------------+-+-+-++-+-+---+---------+------------------------+--+-------------------------------------------------------------------------------------------------------------------------------+-------</proBnd>
+<rnaSeq>GGCAACGGUUCGAUCCCGUUGC</rnaSeq>
+<rnaBnd>------+++-++++++++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1ZE2" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKHGILVAYKPKGPTSHDVVDEVRKKLKTRKVGHGGTLDPFACGVLIIGVNQGTRILEFYKDLKKVYWVKMRLGLITETFDITGEVVEERECNVTEEEIREAIFSFVGEYDQVPPAYSAKKYKGERLYKLAREGKIINLPPKRVKIFKIWDVNIEGRDVSFRVEVSPGTYIRSLCMDIGYKLGCGATAVELVRESVGPHTIEESLNVFEAAPEEIENRIIPLEKCLEWLPRVVVHQESTKMILNGSQIHLEMLKEWDGFKKGEVVRVFNEEGRLLALAEAERNSSFLETLRKHERQERVLTLRKVFQTR</proSeq>
+<proBnd>--------------+++---+--+-----+---+--+-+--------------+--------------------------+-+---------------------------------+-+++--+-+-----+-------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----</proBnd>
+<rnaSeq>GGCCACGGUUCGAAUCCGUGGC</rnaSeq>
+<rnaBnd>------+++-++++++++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2AZ0" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MPSKLALIQELPDRIQTAVEAAMGMSYQDAPNNVRRDLDNLHACLNKAKLTVSRMVTSLLEKPSVVAYLEGKA</proSeq>
+<proBnd>--------------------------------+--------------------+---+---------------</proBnd>
+<rnaSeq>GCAUGGACGCGUCCAUGC</rnaSeq>
+<rnaBnd>----+++-------+-+-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="5MSF" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQTVGGVELPVAAWRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY</proSeq>
+<proBnd>----------------------------+---------------+-+-+---------+-+-+---------------------+-+------------------------------------------</proBnd>
+<rnaSeq>CCGGAGGAUCACCACGGG</rnaSeq>
+<rnaBnd>-+-++-+++++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3LRN" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>KENKKLLCRKCKALACYTADVRVIEESHYTVLGDAFKECFVSRPHPKPKQFSSFEKRAKIFCARQNCSHDWGIHVKYKTFEIPVIKIESFVVEDIATGVQTLYSKWKDFHFEKIPFDPAEM</proSeq>
+<proBnd>---------------------------------------------------------------------------------------+---------------+++---------------</proBnd>
+<rnaSeq>GGCGCGCGCGCGCC</rnaSeq>
+<rnaBnd>-+-+-------+-+</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3O3I" ID="XA" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SETVLDFMFNFYHQTEEHKFQEQVSKELIGLVVLTKYNNKTYRVDDIDWDQNPKSTFKKADGSEVSFLEYYRKQYNQEITDLKQPVLVSQPKRRRGPGGTLPGPAMLIPELCYLTGLTDKMRND</proSeq>
+<proBnd>--------------------------------------------------------+------------+------------------------------------------------------</proBnd>
+<rnaSeq>GCGAAUAUUCGCUU</rnaSeq>
+<rnaBnd>------------++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3TMI" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SVSDTNLYSPFKPRNYQLELALPAMKGKNTIICAPTGCGKTFVSLLICEHHLKKFPQGQKGKVVFFANQIPVYEQQKSVFSKYFERHGYRVTGISGATAENVPVEQIVENNDIIILTPQILVNNLKKGTIPSLSIFTLMIFDECHNTSKQHPYNMIMFNYLDQKLGGSSGPLPQVIGLTASVGVGDAKNTDEALDYICKLCASLDASVIATVKHNLEELEQVVYKPQKFFRKVESRISDKFKYIIAQLMRDTESLAKRICKDLENLSQIQNREFGTQKYEQWIVTVQKACMVFQMPDKDEESRICKALFLYTSHLRKYNDALIISEHARMKDALDYLKDFFSNVRAAGFDEIEQDLTQRFEEKLQELESVSRDPSNENPKLEDLCFILQEEYHLNPETITILFVKTRALVDALKNWIEGNPKLSFLKPGILTGRGKTNQNTGMTLPAQKCILDAFKASGDHNILIATSVADEGIDIAQCNLVILYEYVGNVIKMIQTRGRGRARGSKCFLLTSNAGVIEKEQINMYKEKMMNDSILRLQTWDEAVFREKILHIQTHEKFIRDSQEKPKPVPDKENKKLLCRKCKALACYTADVRVIEECHYTVLGDAFKECFVSRPHPKPKQFSSFEKRAKIFCARQNCSHDWGIHVKYKTFEIPVIKIESFVVEDIATGVQTLYSKWKDFHFEKIPFDPAEMSK</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------------------++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------++--------------------+--------------------------------------------------</proBnd>
+<rnaSeq>CGACGCUAGCGUCG</rnaSeq>
+<rnaBnd>+--+++-+-+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3NMU" ID="AI" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MHHHHHHVMIMKAFISENVRGIYAFDENGNLIEKRYFTDKPEKVLDQLLKGEITKDLEELLNSLKEKGYDEFVFEHPELSRRAKELGFSATTEFPNIAGERLRSNPEEFLGENWFEEYYKVGVALTRMRIQEQSGARDKMVIQAIEALDDVDKVINLLVARLREWYSLHFPELDELLPKHPQYVAFVKTVGHRDNINEEVLRELGLSEEKIKKILEAKEKTMGAWMDQTDIEVVRQLAEEIDRLYQLRKKLEDYIDRAMDDVAPNLKALVGAKLAARLISLAGGLRELAMMPSSTIQVLGAEKALFRHLRTGAKPPKHGVIYQYPAINRSPWWQRGKIARALAGKLAIAARVDYFSGEYIAEELKKELEARIREIKEKY</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------</proBnd>
+<rnaSeq>GAGCUUCAACGGC</rnaSeq>
+<rnaBnd>++-----------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2ATW" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEFSTREGEIVAGVIQRDSRANARGLVVVRIGTETKASEGVIPAAEQVPGESYEHGNRLRCYVVGVTRGAREPLITLSRTHPNLVRKLFSLEVPEIADGSVEIVAVAREAGHRSKIAVRSNVAGLNAKGACIGPMGQRVRNVMSELSGEKIDIIDYDDDPARFVANALSPAKVVSVSVIDQTARAARVVVPDFQLSLAIGKEGQNARLAARLTGWRIDIRGDAPPPPPGQPEPGVSRGMAHDRLEHHHHHH</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------+-----------------+------------+-+-+-++-+---++-----------+++--------------++----------------------+-+++-+--+---++--+-----++++--------------------------------</proBnd>
+<rnaSeq>AGAACUCAAUAG</rnaSeq>
+<rnaBnd>+++++++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AVU" ID="AT" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAEITASLVKELRERTGAGMMDCKKALTEANGDIELAIENMRKSGAIKAAKKAGNVAADGVIKTKIDGNYGIILEVNCQTDFVAKDAGFQAFADKVLDAAVAGKITDVEVLKAQFEEERVALVAKIGENINIRRVAALEGDVLGSYQHGARIGVLVAAKGADEELVKHIAMHVAASKPEFIKPEDVSAEVVEKEYQVQLDIAMQSGKPKEIAEKMVEGRMKKFTGEVSLTGQPFVMEPSKTVGQLLKEHNAEVTGFIRFEVGEGIEKVETDFAAEVAAMSKQSHMSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARGITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHILLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALEGDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVGEEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIKPHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMVVTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLSGASGAAGGGGSGGGGSMSKTASSRNSLSAQLRRAANTRIEVEGNLALSIANDLLLAYGQSPFNSEAECISFSPRFDGTPDDFRINYLKAEIMSKYDDFSLGIDTEAVAWEKFLAAEAECALTNARLYRPDYSEDFNFSLGESCIHMARRKIAKLIGDVPSVEGMLRHCRFSGGATTTNNRSYGHPSFKFALPQACTPRALKYVLALRASTHFDIRISDISPFNKAVTVPKNSKTDRCIAIEPGWNMFFQLGIGGILRDRLRCWGIDLNDQTINQRRAHEGSVTNNLATVDLSAASDSISLALCELLLPPGWFEVLMDLRSPKGRLPDGSVVTYEKISSMGNGYTFELESLIFASLARSVCEILDLDSSEVTVYGDDIILPSCAVPALREVFKYVGFTTNTKKTFSEGPFRESCGKHYYSGVDVTPFYIRHRIVSPADLILVLNNLYRWATIDGVWDPRAHSVYLKYRKLLPKQLQRNTIPDGYGDGALVGSVLINPFAKNRGWIRYVPVITDHTRDRERAELGSYLYDLFSRCLSESNDGLPLRGPSGCDSADLFAIDQLICRSNPTKISRSTGKFDIQYIACSSRVLAPYGVFQGTKVASLHEAHHHHHH</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---++-----+---------------------------------------------------------++-----------------+------------+-----------------------+--------------------------------------------++--------------------------------+-+--------------------------------------+--------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>AUCGUGGACCCA</rnaSeq>
+<rnaBnd>---+++++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4GHA" ID="CJ" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAHHHHHHVDDDDKENLYFQSKPNLSAKDLALLLFTHLPGNNTPFHILAQVLSKIAYKSGKSGAFLDAFHQILSEGENAQAALTRLSRTFDAFLGVVPPVIRVKNFQTVPRPCQKSLRAVPPNPTIDKGWVCVYSSEQGETRALKI</proSeq>
+<proBnd>-----------------------------------------------------------------------------+-+---+---+----------------------------------------------------------</proBnd>
+<rnaSeq>CUAGACGUCUAG</rnaSeq>
+<rnaBnd>++++++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2R8S" ID="HR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>EVQLVESGGGLVQPGGSLRLSCAASGFNLYSSSIHWVRQAPGKGLEWVAYISSSYGYTYYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARRAAGMSTYGFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSC</proSeq>
+<proBnd>-------------------------+-+-++--------------------+++-------------------------------------------+-+++-++++-++------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GGAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCA</rnaSeq>
+<rnaBnd>--------------------------++++++--------------------------------++-+--+-++++-+++------------++++---------------------------------------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2R8S" ID="LR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>DIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQSYSSPITFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</proSeq>
+<proBnd>---------------------------------------------+--++----+++--++----+------------------------++--------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GGAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCA</rnaSeq>
+<rnaBnd>--------------------------+++------------------------------------+-+--+++-------------------++++---------------------------------------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3HHN" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMK</proSeq>
+<proBnd>-----------+-++--+--+---------------------+-+--++-+++-+-----------------------+----++-+++++------</proBnd>
+<rnaSeq>UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUACCCAUUGCACUCCGGGUAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGA</rnaSeq>
+<rnaBnd>---------------------------------------------------------------++---+++++++--++----------------------------------------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1SER" ID="BT" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MVDLKRLRQEPEVFHRAIREKGVALDLEALLALDREVQELKKRLQEVQTERNQVAKRVPKAPPEEKEALIARGKALGEEAKRLEEALREKEARLEALLLQVPLPPWPGAPVGGEEANREIKRVGGPPEFSFPPLDHVALMEKNGWWEPRISQVSGSRSYALKGDLALYELALLRFAMDFMARRGFLPMTLPSYAREKAFLGTGHFPAYRDQVWAIAETDLYLTGTAEVVLNALHSGEILPYEALPLRYAGYAPAFRSEAGSFGKDVRGLMRVHQFHKVEQYVLTEASLEASDRAFQELLENAEEILRLLELPYRLVEVATGDMGPGKWRQVDIEVYLPSEGRYRETHSCSALLDWQARRANLRYRDPEGRVRYAYTLNNTALATPRILAMLLENHQLQDGRVRVPQALIPYMGKEVLEPCG</proSeq>
+<proBnd>-----------------------------------------+--+--+--+---+--+-----------+-----------------+----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-+--------------------------------------------------------</proBnd>
+<rnaSeq>GGAGAGGUGCCCGAGUGGCUGAAGGGACACGACUGGAAAUCGUGUAGGGGGGCUUAAACCUCCCUCGCGGGUUCGAAUCCCGCCCUCUCCGCCA</rnaSeq>
+<rnaBnd>-----------------+----------------------------++----------------------+--++--------++---------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3HL2" ID="BE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MNRESFAAGERLVSPAYVRQGCEARRSHEHLIRLLLEKGKCPENGWDESTLELFLHELAIMDSNNFLGNCGVGEREGRVASALVARRHYRFIHGIGRSGDISAVQPKAAGSSLLNKITNSLVLDIIKLAGVHTVANCFVVPMATGMSLTLCFLTLRHKRPKAKYIIWPRIDQKSCFKSMITAGFEPVVIENVLEGDELRTDLKAVEAKVQELGPDCILCIHSTTSCFAPRVPDRLEELAVICANYDIPHIVNNAYGVQSSKCMHLIQQGARVGRIDAFVQSLDKNFMVPVGGAIIAGFNDSFIQEISKMYPGRASASPSLDVLITLLSLGSNGYKKLLKERKEMFSYLSNQIKKLSEAYNERLLHTPHNPISLAMTLKTLDEHRDKAVTQLGSMLFTRQVSGARVVPLGSMQTVSGYTFRGFMSHTNNYPCAYLNAASAIGMKMQDVDLFIKRLDRCLKAVRKERSKESDDNYDKTEDVDIEEMALKLDNVLLDTYQDASS</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+++----------------------------------------------------+-------------------------------------------------</proBnd>
+<rnaSeq>GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUCUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGCGCCA</rnaSeq>
+<rnaBnd>+++----------------++----+------+-------+--+-------------------+----+-------++-------++---</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2ZZM" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MPLCLKINKKHGEQTRRILIENNLLNKDYKITSEGNYLYLPIKDVDEDILKSILNIEFELVDKELEEKKIIKKPSFREIISKKYRKEIDEGLISLSYDVVGDLVILQISDEVDEKIRKEIGELAYKLIPCKGVFRRKSEVKGEFRVRELEHLAGENRTLTIHKENGYRLWVDIAKVYFSPRLGGERARIMKKVSLNDVVVDMFAGVGPFSIACKNAKKIYAIDINPHAIELLKKNIKLNKLEHKIIPILSDVREVDVKGNRVIMNLPKFAHKFIDKALDIVEEGGVIHYYTIGKDFDKAIKLFEKKCDCEVLEKRIVKSYAPREYILALDFKINKK</proSeq>
+<proBnd>--------++--++-+------+-+-+---+------+-------------------------------------++-------+-------++++++--------+----------------------------+---+----+-+-----------------++----------+-+-+-----------------------------------------------------------------------------------+-+---------------------------------------------------++-+---+----------</proBnd>
+<rnaSeq>GCAGGGGUCGCCAAGCCUGGCCAAAGGCGCUGGGCCUAGGACCCAGUCCCGUAGGGGUUCCAGGGUUCAAAUCCCUGCCCCUGCACCA</rnaSeq>
+<rnaBnd>----------++-------++----++----------+++++++-----------------------++-------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2BTE" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MEKYNPHAIEAKWQRFWEEKGFMKAKDLPGGRGKQYVLVMFPYPSGDLHMGHLKNYTMGDVLARFRRMQGYEVLHPMGWDAFGLPAENAALKFGVHPKDWTYANIRQAKESLRLMGILYDWDREVTTCEPEYYRWNQWIFLKMWEKGLAYRAKGLVNWCPKCQTVLANEQVVEGRCWRHEDTPVEKRELEQWYLRITAYAERLLKDLEGLNWPEKVKAMQRAWIGRSEGAEILFPVEGKEVRIPVFTTRPDTLFGATFLVLAPEHPLTLELAAPEKREEVLAYVEAAKRKTEIERQAEGREKTGVFLGAYALNPATGERIPIWTADYVLFGYGTGAIMAVPAHDQRDYEFARKFGLPIKKVIERPGEPLPEPLERAYEEPGIMVNSGPFDGTESEEGKRKVIAWLEEKGLGKGRVTYRLRDWLISRQRYWGTPIPMVHCEACGVVPVPEEELPVLLPDLKDVEDIRPKGKSPLEAHPEFYETTCPKCGGPAKRDTDTMDTFFDSSWYYLRYTDPHNDRLPFDPEKANAWMPVDQYIGGVEHAVLHLLYSRFFTKFLHDLGMVKVEEPFQGLFTQGMVLAWTDFGPVEVEGSVVRLPEPTRIRLEIPESALSLEDVRKMGAELRPHEDGTLHLWKPAVMSKSKGNGVMVGPFVKEQGADIARITILFAAPPENEMVWTEEGVQGAWRFLNRIYRRVAEDREALLETSGVFQAEALEGKDRELYGKLHETLKKVTEDLEALRFNTAIAALMEFLNALYEYRKDRPVTPVYRTAIRYYLQMLFPFAPHLAEELWHWFWPDSLFEAGWPELDEKALEKDVVEVAVQVNGRVRGTIHIPKDAPLEVARAEALKVRNVRAHLEGKEVVKEIYVPGKILNLVVRG</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+----+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----+-------------+---------------------------------------------------------------+--+------+---------------------------------------------------------+---+---+--------------------------------------+-+---+-+-----</proBnd>
+<rnaSeq>GCCGGGGUGGCGGAAUGGGUAGACGCGCAUGACUCAGGAUCAUGUGCGCAAGCGUGCGGGUUCAAGUCCCGCCCCCGGCACCA</rnaSeq>
+<rnaBnd>-----------++-----++--+-+++------------+--+----+--------------+-------------+--++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AM1" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGDIMLIILTGLPGVGKSTFSKNLAKILSKNNIDVIVLGSDLIRESFPVWKEKYEEFIKKSTYRLIDSALKNYWVIVDDTNYYNSMRRDLINIAKKYNKNYAIIYLKASLDVLIRRNIERGEKIPNEVIKKMYEKFDEPGKKYKWDEPFLIIDTTKDIDFNEIAKKLIEKSKEIPKFYVLEENKNKNNNISDKIDKETRKIVSEYIKSKKLDKDKIKEVVELRKEFLKKIKKMEEVDADRVLKEFKDLLNSYLEHHHHHH</proSeq>
+<proBnd>----------------------------------------------------------------------------------+++--+------------------------------------------------+----++++----------------------------------------------+--+---+--++--+---------+---+--+-------------------------------------</proBnd>
+<rnaSeq>GGCGCGGGGUACCGGGCUUGGUAGCCCGGGGCUUCGGCCGAGGGCGAGAGCCCUCGGGGUUCGAUUCCCCCCCUGCGCCGC</rnaSeq>
+<rnaBnd>++------------------++++----------------------------------------+----------++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AMT" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGSSHHHHHHSSGLVPRGSHMRVWVGIDDTDSSRGMCTTYLAVLAMERVERELGKVIGFPRLIRLNPTIPYKTRGNGAVSFLVEVDDVGELVDVVNEVIIEHAMLDDEKTNPGAVFVDEELAVKLKPFADKAIKDVLQIDEALFVIGKYFIPHLRHKKGRGLIGALAAVGAELEDFTLELIAYRYPERFGTEREYDEESFFDMDYELYPQTFDNVDWCNDVVVCIPNTPCPVLYGIRGESVEALYKAMESVKTEPVDRRMIFVTNHATDMHLIGEEEVHRLENYRSYRLRGRVTLEPYDIEGGHVFFEIDTKFGSVKCAAFEPTKQFRNVIRLLRKGDVVEVYGSMKKDTINLEKIQIVELAEIWVEKNPICPSCGRRMESAGRGQGFRCKKCRTKADEKLREKVERELQPGFYEVPPSARRHLSKPLIRMNVEGRHIFR</proSeq>
+<proBnd>-----------------------------------------------------------------------+-+----------------------------------------------------------------------------------------------------------------------------------------------------+---+-----------------------------------------------------------------------+-++-+-+--------------+++-+--+-------------------+---+++--------------+----------++--+-+--+----------+-------------------+-++-----------------</proBnd>
+<rnaSeq>GGGCCCGUAGCUUAGCCAGGUCAGAGCGCCCGGCUCAUAACCGGGCGGUCGAGGGUUCGAAUCCCUCCGGGCCCACCA</rnaSeq>
+<rnaBnd>+-------------------------++----+-++++++++----------------------------+++++---</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2FMT" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SESLRIIFAGTPDFAARHLDALLSSGHNVVGVFTQPDRPAGRGKKLMPSPVKVLAEEKGLPVFQPVSLRPQENQQLVAELQADVMVVVAYGLILPKAVLEMPRLGCINVHGSLLPRWRGAAPIQRSLWAGDAETGVTIMQMDVGLDTGDMLYKLSCPITAEDTSGTLYDKLAELGPQGLITTLKQLADGTAKPEVQDETLVTYAEKLSKEEARIDWSLSAAQLERCIRAFNPWPMSWLEIEGQPVKVWKASVIDTATNAAPGTILEANKQGIQVATGDGILNLLSLQPAGKKAMSAQDLLNSRREWFVPGNRLV</proSeq>
+<proBnd>----------+---------------------------+-++++----------------------------------------------+-----------------------------+------------------------------------------------------------------------------------++-+--------------------------------------------------------------------------------++------+--++-+----------</proBnd>
+<rnaSeq>CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGAUCGUCGGUUCAAAUCCGGCCCCCGCAACCA</rnaSeq>
+<rnaBnd>-+--+-----++++----------+--------------------------------------------+++++--+</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1QF6" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MPVITLPDGSQRHYDHAVSPMDVALDIGPGLAKACIAGRVNGELVDACDLIENDAQLSIITAKDEEGLEIIRHSCAHLLGHAIKQLWPHTKMAIGPVIDNGFYYDVDLDRTLTQEDVEALEKRMHELAEKNYDVIKKKVSWHEARETFANRGESYKVSILDENIAHDDKPGLYFHEEYVDMCRGPHVPNMRFCHHFKLMKTAGAYWRGDSNNKMLQRIYGTAWADKKALNAYLQRLEEAAKRDHRKIGKQLDLYHMQEEAPGMVFWHNDGWTIFRELEVFVRSKLKEYQYQEVKGPFMMDRVLWEKTGHWDNYKDAMFTTSSENREYCIKPMNCPGHVQIFNQGLKSYRDLPLRMAEFGSCHRNEPSGSLHGLMRVRGFTQDDAHIFCTEEQIRDEVNGCIRLVYDMYSTFGFEKIVVKLSTRPEKRIGSDEMWDRAEADLAVALEENNIPFEYQLGEGAFYGPKIEFTLYDCLDRAWQCGTVQLDFSLPSRLSASYVGEDNERKVPVMIHRAILGSMERFIGILTEEFAGFFPTWLAPVQVVIMNITDSQSEYVNELTQKLSNAGIRVKADLRNEKIGFKIREHTLRRVPYMLVCGDKEVESGKVAVRTRRGKDLGSMDVNEVIEKLQQEIRSRSLKQLEE</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-++-+----+--------+-------------------------+------------+---+----------------------------------------------+---+--++-------------+-------------------------------+-+++++--+--+--------------------------------------------------------------------------------------+-------------+-------+--------------------------------------------------------------+-+-------------------------+--+----------------+---++--------+---------------------------------</proBnd>
+<rnaSeq>GCCGAUAUAGCUCAGUUGGUAGAGCAGCGCAUUCGUAAUGCGAAGGUCGUAGGUUCGACUCCUAUUAUCGGCACCA</rnaSeq>
+<rnaBnd>+-+----------------------------+++++------------+------------------+++++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1VFG" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MVGQIAKEMGLRAYIVGGVVRDILLGKEVWDVDFVVEGNAIELAKELARRHGVNVHPFPEFGTAHLKIGKLKLEFATARRETYPRPGAYPKVEPASLKEDLIRRDFTINAMAISVNLEDYGTLIDYFGGLRDLKDKVIRVLHPVSFIEDPVRILRALRFAGRLNFKLSRSTEKLLKQAVNLGLLKEAPRGRLINEIKLALREDRFLEILELYRKYRVLEEIIEGFQWNEKVLQKLYALRKVVDWHALEFSEERIDYGWLYLLILISNLDYERGKHFLEEMSAPSWVRETYKFMKFKLGSLKEELKKAKENYEVYRLLKPLHTSVLLLLMLEEELKEKIKLYLEKLRKVKLPKEKIEELKKQGLKGKELGERIEELKREIMNKIKLAAALE</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GGCCAGGUAGCUCAGUUGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACC</rnaSeq>
+<rnaBnd>-+-----------------------------------------------------+----+-----------+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2ZZN" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MPLCLKINKKHGEQTRRILIENNLLNKDYKITSEGNYLYLPIKDVDEDILKSILNIEFELVDKELEEKKIIKKPSFREIISKKYRKEIDEGLISLSYDVVGDLVILQISDEVDEKIRKEIGELAYKLIPCKGVFRRKSEVKGEFRVRELEHLAGENRTLTIHKENGYRLWVDIAKVYFSPRLGGERARIMKKVSLNDVVVDMFAGVGPFSIACKNAKKIYAIDINPHAIELLKKNIKLNKLEHKIIPILSDVREVDVKGNRVIMNLPKFAHKFIDKALDIVEEGGVIHYYTIGKDFDKAIKLFEKKCDCEVLEKRIVKSYAPREYILALDFKINKK</proSeq>
+<proBnd>--------+---+--+----------+---+------+-----------------------------+--+---+-------------------++----------+--------------------------------+----+-+------------------+----------+---+-----------------------------------------------------------------------------------+-+--------------------------+-----------------------+++-+++------------</proBnd>
+<rnaSeq>GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGCUCCA</rnaSeq>
+<rnaBnd>----------++----+++--+--------++++++++++--------------++-------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AKZ" ID="BF" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MFITGAFFDILEVGPKKIRRCFELVRVRFAPSPTGHLHVGGARTALFNWMFARKEGGKFILRIEDTDTERSSREYEQQILESLRWCGLDWDEGPDIGGDFGPYRQSERLEIYREYAEKLVEDKRAYYVVYDKEDPSKELFTTYEYPHEYKEKGHPVTIKFKVLPGKTSFEDLLKGYMEFDNSTLEDFIIMKSNGFPTYNFAVVVDDHLMRISHVFRGEDHLSNTPKQLMIYEAFGWEAPVFMHIPLILGSDRTPLSKRHGATSVEHFRREGILSRALMNYLALLGWRVEGDEIFTIEEKLQSFDPKDISNKGVIFDYQKLEWVNGKHMRRIDLEDLKREFIEWAKYAGKEIPSVDERYFSETLRICREKVNTLSQLYDIMYPFMNDDYEYEKDYVEKFLKREEAERVLEEAKKAFKDLNSWNMEEIEKTLRDLSEKGLASKKVVFQLIRGAVTGKLVTPGLFETIEVLGKERTLKRLERTLQFLKKT</proSeq>
+<proBnd>-------------------------------+---------------------------------++-++-----------------------------------------------------------+--------------------------+----------------+-------------+--++----++--------------------+---+--+---------------------------------------------------------+--+----+----------------+++--+---+-------+-----------------------------------------++-+-----------------------------------------------------------------------------+------+++--++-------------------------</proBnd>
+<rnaSeq>UGGGAGGUCGUCUAACGGUAGGACGGCGGACUCUGGAUCCGCUGGUGGAGGUUCGAGUCCUCCCCUCCCAGCCA</rnaSeq>
+<rnaBnd>--++++++--+++---------+-+------+++++++-----------------------------++--+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3MOJ" ID="BA" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKLYFNGGKKKKIRAVDFVGTIAKIDGVSADDIGIITIMDNASYVEILNGKGPHVLKVMKNTTVKGKQLKVNKANK</proSeq>
+<proBnd>--------++----+-+-+-+-++-----+--++-+--------------------------+-+-+---------</proBnd>
+<rnaSeq>GGCUCAUCACAUCCUGGGGCUGGAAACGGUCCCAAGGGUAUGGCUGUUCGCCAUUUAAAGUGGUACGCGAGCUA</rnaSeq>
+<rnaBnd>----------------------------------------++---+++--------------+-----------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3EPH" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SKKVIVIAGTTGVGKSQLSIQLAQKFNGEVINSDSMQVYKDIPIITNKHPLQEREGIPHHVMNHVDWSEEYYSHRFETECMNAIEDIHRRGKIPIVVGGTHYYLQTLFNKRVDTKSSERKLTRKQLDILESTDPDVIYNTLVKCDPDIATKYHPNDYRRVQRMLEIYYKTGKKPSETFNEQKITLKFDTLFLWLYSKPEPLFQRLDDRVDDMLERGALQEIKQLYEYYSQNKFTPEQCENGVWQVIGFKEFLPWLTGKTDDNTVKLEDCIERMKTRTRQYAKRQVKWIKKMLIPDIKGDIYLLDATDLSQWDTNASQRAIAISNDFISNRPIKQERAPKALEELLSKGETTMKKLDDWTHYTCNVCRNADGKNVVAIGEKYWKIHLGSRRHKSNLKRNTRQADFEKWKI</proSeq>
+<proBnd>---------------------------------+++---------+-------------------------++--------------------------+-++------+-+-+------------------------------------++--+--++--+---------------+--+--------------------------------------------------------------+++-------------------------+---+--++-++--++--++---------------------------------------------------------------+------------+----------------+---++--+------+---------</proBnd>
+<rnaSeq>CUCGUAUGGCGCAGUGGUAGCGCAGCAGAUUGCAAAUCUGUUGGUCCUUAGUUCGAUCCUGAGUGCGAG</rnaSeq>
+<rnaBnd>-------+---------+-+---++++++++++++++-++++-+-------------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3EGZ" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMK</proSeq>
+<proBnd>------------+-----+---+--------------------+--+-+----+-+-------------------------------+----------</proBnd>
+<rnaSeq>GAGGGAGAGGUGAAGAAUACGACCACCUAGGUACCAUUGCACUCCGGUACCUAAAACAUACCCUC</rnaSeq>
+<rnaBnd>------------------------------+----++-++++---+-------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3RW6" ID="AH" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>VRRDRAPPERGGAGTSQDGTSKNWFKITIPYGRKYDKAWLLSMIQSKCSVPFTPIEFHYENTRAQFFVEDASTASALKAVNYKILDRENRRISIIINSSAPPHTILNELKPEQVEQLKLIMSKRYDGSQQALDLKGLRSDPDLVAQNIDVVLNRRSCMAATLRIIEENIPELLSLNLSNNRLYRLDDMSSIVQKAPNLKILNLSGNELKSERELDKIKGLKLEELWLDGNSLCDTFRDQSTYISAIRERFPKLLRLDGHELPPPIAF</proSeq>
+<proBnd>------------------------------+------------------------++++---+---------------------------------++---------------------------------------+--------------++-------------------------++-+-------------------------+----------------------------------------------------------</proBnd>
+<rnaSeq>GGCACUAACCUAAGACAGGAGGGCCGGGAAACCUGCCUAAUCCAAUGACGGGUAAUAGUGUC</rnaSeq>
+<rnaBnd>-----------+++++---------------+++----------------+--+--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1Y39" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>FTFITKTPPAAVLLKKAAGIESGSGEPNRNKVATIKRDKVREIAELKMPDLNAASIEAAMRMIEGTARNMGIVVED</proSeq>
+<proBnd>---------+----+-------+++--+------------------+----+-+-------+--++--+-------</proBnd>
+<rnaSeq>GCCAGGAUGUAUGCUUAGAAGCAGCAAUCAUUUAAAGAGUGCGUAAUAGCUCACUGGU</rnaSeq>
+<rnaBnd>--------++-+++-----------++--+++-----+--------------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1GTN" ID="VW" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MYTNSDFVVIKALEDGVNVIGLTRGADTRFHHSEKLDKGEVLIAQFTEHTSAIKVRGKAYIQTRHGVIESEGKK</proSeq>
+<proBnd>---------------------------+-+---++-+-------------------------------------</proBnd>
+<rnaSeq>GAGCCGAGCCGAGCCGAGCCGAGCCGAGCCGAGCCGAGCCGAGCCGAGCCGAGCCG</rnaSeq>
+<rnaBnd>+++--+++--++++-+++--++++-++++-++++-++++-+++--+++--++++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1C9S" ID="SW" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MYTNSDFVVIKALEDGVNVIGLTRGADTRFHHSEKLDKGEVLIAQFTEHTSAIKVRGKAYIQTRHGVIESEGKK</proSeq>
+<proBnd>-------------------+-------+-++-+++-+----------------+--------------------</proBnd>
+<rnaSeq>GAUGAGAUGAGAUGAGAUGAGAUGAGAUGAGAUGAGAUGAGAUGAGAUGAGAUGA</rnaSeq>
+<rnaBnd>++-++++-++++++++++++++-++++-++++-++++-++++-++++-++++-++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1GTF" ID="VW" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MYTNSDFVVIKALEDGVNVIGLTRGADTRFHHSEKLDKGEVLIAQFTEHTSAIKVRGKAYIQTRHGVIESEGKK</proSeq>
+<proBnd>---------------------------+-+---++-+----------------+--------------------</proBnd>
+<rnaSeq>GAGUUGAGUUGAGUUGAGUUGAGUUGAGUUGAGUUGAGUUGAGUUGAGUUGAGUU</rnaSeq>
+<rnaBnd>++++-++++-++++-++++-++++-++++-++++-++++-++++-++++-++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1S03" ID="HA" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SMQDPIADMLTRIRNGQAANKAAVTMPSSKLKVAIANVLKEEGFIEDFKVEGDTKPELELTLKYFQGKAVVESIQRVSRPGLRIYKRKDELPKVMAGLGIAVVSTSKGVMTDRAARQAGLGGEIICYVA</proSeq>
+<proBnd>--------------------------+--+-+-------------------------------------------------------+---------------+-++-------------+-+------</proBnd>
+<rnaSeq>GGACGAUGGCGAAACUGCAUGAGGCAAUUCAUGCAAGUCCCUCGUCC</rnaSeq>
+<rnaBnd>-----------++++------------+-+------+-++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3IAB" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MINGVYYNEISRDLDISSSTQCLRFLKETVIPSLANNGNNSTSIQYHGISKNDNIKKSVNKLDKQINMADRSLGLQQVVCIFSYGPHIQKMLSILEIFKKGYIKNNKKIYQWNKLTSFDIKREGRNELQEERLKVPILVTMVSDSEIIDLNLHSFTKQ</proSeq>
+<proBnd>---------------------------------------------------+-+++--+++---------------------------++--+---+-----------------------------------++------------------------</proBnd>
+<rnaSeq>GGACUCAGUAAUAUGCUUUGGAAACGAAGCUUACAAAAUGGAGUCC</rnaSeq>
+<rnaBnd>+--+++---+--+++-------------------+--+-++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3IAB" ID="BR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MALKKNTHNKSTKRVTKHPSLKTLTHKQIHTTIFVKSTTPYVSALKRINKFLDSVHKQGSSYVAVLGMGKAVEKTLALGCHFQDQKNKKIEVYTKTIEVLDEVITEGQADIDMESDVEDDDKETQLKKRAVSGVELRIYV</proSeq>
+<proBnd>-------------+-----+-+----------+++++-+-+++-+++---+--------------+---+---+------+----+---------++-+---+-------------------------++++--------</proBnd>
+<rnaSeq>GGACUCAGUAAUAUGCUUUGGAAACGAAGCUUACAAAAUGGAGUCC</rnaSeq>
+<rnaBnd>+--+++--++--+++--------------+++++++-+-++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4IFD" ID="JR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GAMSVPAIAPRRKRLADGLSVTQKVFVRSRNGGATKIVREHYLRSDIPCLSRSCTKCPQIVVPDAQNELPKFILSDSPLELSAPIGKHYVVLDTNVVLQAIDLLENPNCFFDVIVPQIVLDEVRNKSYPVYTRLRTLCRDSDDHKRFIVFHNEFSEHTFVERLPNETINDRNNRAIRKTCQWYSEHLKPYDINVVLVTNDRLNREAATKEVESNIITKSLVQYIELLPNADDIRDSIPQMDSFDKDLERDTFSDFTFPEYYSTARVMGGLKNGVLYQGNIQISEYNFLEGSVSLPRFSKPVLIVGQKNLNRAFNGDQVIVELLPQSEWKAPSSIVLDSEHFDVNDNPDIEAGDDDDNNESSSNTTVISDKQRRLLAKDAMIAQRSKKIQPTAKVVYIQRRSWRQYVGQLAPSSVDPQSSSTQNVFVILMDKCLPKVRIRTRRAAELLDKRIVISIDSWPTTHKYPLGHFVRDLGTIESAQAETEALLLEHDVEYRPFSKKVLECLPAEGHDWKAPTKLDDPEAVSKDPLLTKRKDLRDKLICSIDPPGCVDINDALHAKKLPNGNWEVGVHIADVTHFVKPGTALDAEGAARGTSVYLVDKRIDMLPMLLGTDLCSLKPYVDRFAFSVIWELDDSANIVNVNFMKSVIRSREAFSYEQAQLRIDDKTQNDELTMGMRALLKLSVKLKQKRLEAGALNLASPEVKVHMDSETSDPNEVEIKKLLATNSLVEEFMLLANISVARKIYDAFPQTAMLRRHAAPPSTNFEILNEMLNTRKNMSISLESSKALADSLDRCVDPEDPYFNTLVRIMSTRCMMAAQYFYSGAYSYPDFRHYGLAVDIYTHFTSPIRRYCDVVAHRQLAGAIGYEPLSLTHRDKNKMDMICRNINRKHRNAQFAGRASIEYYVGQVMRNNESTETGYVIKVFNNGIVVLVPKFGVEGLIRLDNLTEDPNSAAFDEVEYKLTFVPTNSDKPRDVYVFDKVEVQVRSVMDPITSKRKAELLLK</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-++------------------------------------------+----------------------------------------------------------+-----------------------------------------+--------------------------------------------------------+--------------------------------------------------------+-----+--------------+-------+-+-+---+----------------------------------+-----------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>CCCCCGAGAGGGGGUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU</rnaSeq>
+<rnaBnd>------------------------------------+---+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2BH2" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAQFYSAKRRTTTRQIITVSVNDLDSFGQGVARHNGKTLFIPGLLPQENAEVTVTEDKKQYARAKVVRRLSDSPERETPRCPHFGVCGGCQQQHASVDLQQRSKSAALARLMKHDVSEVIADVPWGYRRRARLSLNYLPKTQQLQMGFRKAGSSDIVDVKQCPILAPQLEALLPKVRACLGSLQAMRHLGHVELVQATSGTLMILRHTAPLSSADREKLERFSHSEGLDLYLAPDSEILETVSGEMPWYDSNGLRLTFSPRDFIQVNAGVNQKMVARALEWLDVQPEDRVLDLFCGMGNFTLPLATQAASVVGVEGVPALVEKGQQNARLNGLQNVTFYHENLEEDVTKQPWAKNGFDKVLLDPARAGAAGVMQQIIKLEPIRIVYVSCNPATLARDSEALLKAGYTIARLAMLDMFPHTGHLESMVLFSRVK</proSeq>
+<proBnd>------------------------+++-+-+-+-+-++-+-----------------+++--+-------------------------+-+------------------+-----------------+-+-+-+++-----------++--+------------------------------------+++--------------+------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-------------------------------------------------------+-----------</proBnd>
+<rnaSeq>AGCGAAAUUCCUUGUCGGGUAAGUUCCGACCUGCACG</rnaSeq>
+<rnaBnd>++++-++-+++---+-+--++++++-+----------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3VJR" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSHMTIKLIVGLANPGAEYAATRHNAGAWFVDLLAERLRAPLREEAKFFGYTSRVTLGGEDVRLLVPTTFMNLSGKAVAAMASFFRINPDEILVAHDELDLPPGVAKFKLGGGHGGHNGLKDIISKLGNNPNFHRLRIGIGHPGDKNKVVGFVLGKPPVSEQKLIDEAIDEAARCTEMWFTDGLTKATNRLHAFKAQ</proSeq>
+<proBnd>---------------------------------------------------------------------------------------------------+--------+---+++---------------------+-----------------------------------------------+---+--+-----</proBnd>
+<rnaSeq>GGGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA</rnaSeq>
+<rnaBnd>++++--------++-------++----+--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2JEA" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GHMREMLQVERPKLILDDGKRTDGRKPDELRSIKIELGVLKNADGSAIFEMGNTKAIAAVYGPKEMHPRHLSLPDRAVLRVRYHMTPFSTDERKNPAPSRREIELSKVIREALESAVLVELFPRTAIDVFTEILQADAGSRLVSLMAASLALADAGIPMRDLIAGVAVGKADGVIILDLNETEAMWGEADMPIAMMPSLNQVTLFQLNGSMTPDEFRQAFDLAVKGINIIYNLEREALKSKYVEFKEEGV</proSeq>
+<proBnd>------------------------------------------------------------------+----------------------+----------+----------------------------------+---++------------------------------------------+-----+------------------------------------------------------------</proBnd>
+<rnaSeq>CCCCCCCCGAAAGGGGGGGGAAAAAAAAAAAAAAA</rnaSeq>
+<rnaBnd>---------------------+-----+-+-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4ATO" ID="AG" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MTNKDNPKFHTISTEYIDYLREADSKVPFNKDEQHSRPYVGVLEKINGHDYFVPLTSRNDKNFNSQVSVKLFDNDEKRIGVLLVNNMIPVPEKECKEIDIAEKTAADPQYGNLMLKQYLFLKENMDRVTNKVEKVYKDVTVQGKPSHKQKFLKGVCCDFPKLEEKCQEYKERDQAKERDKARRIAYMRQMGRER</proSeq>
+<proBnd>------------------------+++-+-------+------------------+----++-+-++-----------------++----------------------------------------------------------------+---+---------------------------------------</proBnd>
+<rnaSeq>AAAUUGGUGUAACCUUACCGUAGUAGGUGCUAAA</rnaSeq>
+<rnaBnd>++++++------------+---------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1XOK" ID="CA" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SSSQKKAGGKAGKPTKRSQNYAALRK</proSeq>
+<proBnd>-------------+--+++-+-----</proBnd>
+<rnaSeq>AUGCUCAUGCAAAACUGCAUGAAUGCCCCU</rnaSeq>
+<rnaBnd>-+++-+----------------++++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3SNP" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGHHHHHHADDDDKDGVDKLSNPFAYLAEPLDPAQPGKKFFNLNKLDYSRYGRLPFSIRVLLEAAVRNCDKFLVKKEDIENILNWNVTQHMNIEVPFKPARVILQDFTGVPSVVDFAAMRDAVKKLGGDPEKINPICPVDLVIDHSIQVDFNRRADSLQKNQDLEFERNRERFEFLKWGSKAFRNMRIIPPGSGIIHQVNLEYLARVVFDQDGYYYPDSLVGTDSHTTMIDGLGVLGWGVGGIEAEAVMLGQPISMVLPQVIGYRLMGKPHPLVTSTDIVLTITKHLRQVGVVGKFVEFFGPGVAQLSIADRATIANMCPEYGATATFFPVDEVSIKYLVQTGRDESKVKQIRKYLQAVGMFRDYSDPSQDPDFTQVVELDLKTVVPCCSGPKRPQDKVAVSDMKKDFESCLGAKQGFKGFQVAPDHHNDHKTFIYNDSEFTLSHGSVVIAAITSSTNTSNPSVMLGAGLLAKKAVDAGLNVKPYVKTSLSPGSGVVTYYLRESGVMPYLSQLGFDVVGYGSMTCIGNSGPLPEPVVEAITQGDLVAVGVLSGNRNFEGRVHPNTRANYLASPPLVIAYAIAGTIRIDFEKEPLGTNAKGQQVFLRDIWPTREEIQAVERQYVIPGMFTEVYQKIETVNASWNALAAPSDKLYLWNPKSTYIKSPPFFENLTLDLQPPKSIVDAYVLLNLGDSVTTDHISPAGNIARNSPAARYLTNRGLTPREFNSYGSRRGNDAIMARGTFANIRLLNRFLNKQAPQTIHLPSGETLDVFDAAERYQQEGHPLIVLAGKEYGSGSSRDWAAKGPFLLGIKAVLAESYERIHRSNLVGMGVIPLEYLPGENADSLGLTGRERYTIIIPENLTPRMHVQVKLDTGKTFQAVIRFDTDVELTYFHNGGILNYMIRKMAK</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------------------++--------------------------------------------------------------------------------------------------------------------------------------+------+-------------------------+--+---+--------------------------------------------------------------------+----+--+----------------------------------------------------------+++----------------------------------------------------------------------------------------------++--------------+---------------------------------------------------------------------------------------------------------------------------------+++++--+-------------------+-+--+--------------+--------------------------------------------------++++-----------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GUUCUUGCUUCAACAGUGUUUGAACGGAAC</rnaSeq>
+<rnaBnd>------++++----++++++----+++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1OOA" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GGPYLQILEQPKQRGFRFRYVCEGPSHGGLPGASSEKNKKSYPQVKICNYVGPAKVIVQLVTNGKNIHLHAHSLVGKHCEDGVCTVTAGPKDMVVGFANLGILHVTKKKVFETLEARMTEACIRGYNPGLLVHSDLAYLQAEGGGDRQLTDREKEIIRQAAVQQTKEMDLSVVRLMFTAFLPDSTGSFTRRLEPVVSDAIYDSKAPNASNLKIVRMDRTAGCVTGGEEIYLLCDKVQKDDIQIRFYEEEENGGVWEGFGDFSPTDVHRQFAIVFKTPKYKDVNITKPASVFVQLRRKSDLETSEPKPFLYYPEIKDKEEVQRKRQK</proSeq>
+<proBnd>----------------+-++-++-+++-+----------+------------------------------------------------------------------++-----------------------------------------------------------------------------------------------+++-----+------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>CAUACUUGAAACUGUAAGGUUGGCGUAUG</rnaSeq>
+<rnaBnd>-------+++++-+++++++++-++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3SN2" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGHHHHHHADDDDKDGVDKLSNPFAYLAEPLDPAQPGKKFFNLNKLDYSRYGRLPFSIRVLLEAAVRNCDKFLVKKEDIENILNWNVTQHMNIEVPFKPARVILQDFTGVPSVVDFAAMRDAVKKLGGDPEKINPICPVDLVIDHSIQVDFNRRADSLQKNQDLEFERNRERFEFLKWGSKAFRNMRIIPPGSGIIHQVNLEYLARVVFDQDGYYYPDSLVGTDSHTTMIDGLGVLGWGVGGIEAEAVMLGQPISMVLPQVIGYRLMGKPHPLVTSTDIVLTITKHLRQVGVVGKFVEFFGPGVAQLSIADRATIANMCPEYGATATFFPVDEVSIKYLVQTGRDESKVKQIRKYLQAVGMFRDYSDPSQDPDFTQVVELDLKTVVPCCSGPKRPQDKVAVSDMKKDFESCLGAKQGFKGFQVAPDHHNDHKTFIYNDSEFTLSHGSVVIAAITSSTNTSNPSVMLGAGLLAKKAVDAGLNVKPYVKTSLSPGSGVVTYYLRESGVMPYLSQLGFDVVGYGSMTCIGNSGPLPEPVVEAITQGDLVAVGVLSGNRNFEGRVHPNTRANYLASPPLVIAYAIAGTIRIDFEKEPLGTNAKGQQVFLRDIWPTREEIQAVERQYVIPGMFTEVYQKIETVNASWNALAAPSDKLYLWNPKSTYIKSPPFFENLTLDLQPPKSIVDAYVLLNLGDSVTTDHISPAGNIARNSPAARYLTNRGLTPREFNSYGSRRGNDAIMARGTFANIRLLNRFLNKQAPQTIHLPSGETLDVFDAAERYQQEGHPLIVLAGKEYGSGSSRDWAAKGPFLLGIKAVLAESYERIHRSNLVGMGVIPLEYLPGENADSLGLTGRERYTIIIPENLTPRMHVQVKLDTGKTFQAVIRFDTDVELTYFHNGGILNYMIRKMAK</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------++------------------------------------------------------+------+----------------------------+---+--------------------------------------------------------------------+----+--+----------------------------------------------------------+++----------------------------------------------------------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------++++-----------------------+-+--------------------------------------------------------------------+++------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GAUUAUCGGAAGCAGUGCCUUCCAUAAUC</rnaSeq>
+<rnaBnd>------++-----+++++-----------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3SIU" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSMTEADVNPKAYPLADAHLTKKLLDLVQQSCNYKQLRKGANEATKTLNRGISEFIVMAADAEPLEIILHLPLLCEDKNVPYVFVRSKQALGRACGVSRPVIACSVTIKEGSQLKQQIQSIQQSIERLLV</proSeq>
+<proBnd>-------------------------------------+--+++--+----------------+---+--------------------+--------+-++-+----------------------------</proBnd>
+<rnaSeq>CUGUCCAAUGAGCGCAUAGUGAGGGCAG</rnaSeq>
+<rnaBnd>------++++--------+++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3SIU" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GPLGSEAAPEYRVIVDANNLTVEIENELNIIHKFIRDKYSKRFPELESLVPNALDYIRTVKELGNSLDKCKNNENLQQILTNATIMVVSVTASTTQGQQLSEEELERLEEACDMALELNASKHRIYEYVESRMSFIAPNLSIIIGASTAAKIMGVAGGLTNLSKMPACNIMLLGAQRKTLSGFSSTSVLPHTGYIYHSDIVQSLPPDLRRKAARLVAAKCTLAARVDSFHESTEGKVGYELKDEIERKFDKWQE</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------------------------------------+--++---+-----------------+------------------+--------+-----------------------------------</proBnd>
+<rnaSeq>CUGUCCAAUGAGCGCAUAGUGAGGGCAG</rnaSeq>
+<rnaBnd>------++++-+++--+++++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2RFK" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>EVRRILPADIKREVLIKDENAETNPDWGFPPEKRPIEMHIQFGVINLDKPPGPTSHEVVAWIKKILNLEKAGHGGTLAPKVSGVLPVALEKATRVVQALLPAGKEYVALMHLHGDVPEDKIIQVMKEFEGEIIQRPPLRSAVKRRLRTRKVYYIEVLEIEGRDVLFRVGVEAGTYIRSLIHHIGLALGVGAHMSELRRTRSGPFKEDETLITLHDLVDYYYFWKEDGIEEYFRKAIQPMEKAVEHLPKVWIKDSAVAAVTHGADLAVPGIAKLHAGIKRGDLVAIMTLKDELVALGKAMMTSQEMLEKTKGIAVDVEKVFMPRDWYPKLWEKRD</proSeq>
+<proBnd>-------------------------------------------------------+------+-------+-+-------------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------------+-++--+--+-++++-+-----------------------------------------++------+----+----+++--+-</proBnd>
+<rnaSeq>GCGCUUCGCUCCCGGAGCCCACACUA</rnaSeq>
+<rnaBnd>----+-++++------++++++++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1F8V" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>NRRNKARKVVSRSTALVPMAPASQRTGPAPRKPRKRNQALVRNPRLTDAGLAFLKCAFAAPDFSVDPGKGIPDNFHGRTLAIKDCNTTSVVFTPNTDTYIVVAPVPGFAYFRAEVAVGAQPTTFVGVPYPTYATNFGAGSQNGLPAVNNYSKFRYASMACGLYPTSNMMQFSGSVQVWRVDLNLSEAVNPAVTAITPAPGVFANFVDKRINGLRGIRPLAPRDNYSGNFIDGAYTFAFDKSTDFEWCDFVRSLEFSESNVLGAATAMKLLAPGGGTDTTLTGLGNVNTLVYKISTPTGAVNTAILRTWNCIELQPYTDSALFQFSGVSPPFDPLALECYHNLKMRFPVAVSSREN</proSeq>
+<proBnd>-++---+-----------------------++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>UUUUUUUUUUUUUAAAAUUUUUUUU</rnaSeq>
+<rnaBnd>---++-------++-++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2QUX" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GGSMSKTIVLSVGEATRTLTEIQSTADRQIFEEKVGPLVGRLRLTASLRQNGAKTAYRVNLKLDQADVVDSGLPKVRYTQVWSHDVTIVANSTEASRKSLYDLTKSLVATSQVEDLVVNLVPLGR</proSeq>
+<proBnd>----------------------+---++-----------------------+---------+-+-------------++-+-+-+-+--------------------------------------</proBnd>
+<rnaSeq>GGCACAGAAGAUAUGGCUUCGUGCC</rnaSeq>
+<rnaBnd>----++--++++++++---------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1A9N" ID="BQ" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MDIRPNHTIYINNMNDKIKKEELKRSLYALFSQFGHVVDIVALKTMKMRGQAFVIFKELGSSTNALRQLQGFPFYGKPMRIQYAKTDSDIISKMRG</proSeq>
+<proBnd>---------+-++--++--+--------------------+++++-+-+-+-+-----------------------+--+-+--++--+-------</proBnd>
+<rnaSeq>CCUGGUAUUGCAGUACCUCCAGGU</rnaSeq>
+<rnaBnd>----++++++++++-+++------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AGV" ID="AS" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------+-+-+----------------------------+---------------------------++---------------------------------------------</proBnd>
+<rnaSeq>GGAGGUGCUCCGAAAGGAACUCCA</rnaSeq>
+<rnaBnd>---++-+-----------+-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3TS2" ID="AU" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AADEPQLLHGAGICKWFNVRMGFGFLSMTARAGVALDPPVDVFVHQSKLHMEGFRSLKEGEAVEFTFKKSAKGLESIRVTGPGGVFCIGSERRPKGGDRCYNCGGLDHHAKECKLPPQPKKCHFCQSINHMVASCPLKAQQGPSSQGK</proSeq>
+<proBnd>--------------+++++++---+---------------+-+-++-+----+++---+------------+--+----------------++-------------------------------------------------------</proBnd>
+<rnaSeq>GGGGUCUAUGAUACCACCCCGGAG</rnaSeq>
+<rnaBnd>-+---++++++++-+-----++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4ILL" ID="BR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MPLIFKIGYNVIPLQDVILPTPSSKVLKYLIQSGKLIPSLKDLITSRDKYKPIFISHLGFNQRRIFQTNGNLKTITKGSRLSSIIAFSTQANVLSEVADEGIFETVYGKFHIMIESIEIVEVEKLKEEVEKHMNDNIRVRFVSPTLLSSKVLLPPSLSERYKKIHAGYSTLPSVGLIVAYAYNVYCNLIGKKEVEVRAFKFGILSNALSRIIGYDLHPVTVAIGEDSKGNLRKARGVMGWIEFDIPDERLKRRALNYLLTSSYLGIGRSRGIGFGEIRLEFRKIEEKEG</proSeq>
+<proBnd>---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------+-------------------------------+---------------------------------------------</proBnd>
+<rnaSeq>GCUAAUCUACUAUAGAAUUGAAAG</rnaSeq>
+<rnaBnd>--+++++--++++++++-+-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2PJP" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>FSEEQQAIWQKAEPLFGDEPWWVRDLAKETGTDEQAMRLTLRQAAQQGIITAIVKDRYYRNDRIVEFANMIRDLDQECGSTCAADFRDRLGVGRKLAIQILEYFDRIGFTRRRGNDHLLRD</proSeq>
+<proBnd>---------------------+-+-------------------------------++--------------------------+--+-----++++-+-------------+--+-+----</proBnd>
+<rnaSeq>GGCGGUUGCAGGUCUGCACCGCC</rnaSeq>
+<rnaBnd>-----++++++++----------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3TS0" ID="BU" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>DEPQLLHGAGICKWFNVRMGFGFLSMTARAGVALDPPVDVFVHQSKLHMEGFRSLKEGEAVEFTFKKSAKGLESIRVTGPGGVFCIGSERRPKGGDRCYNCGGLDHHAKECKLPPQPKKCHFCQSINHMVASCPLKAQQGPSSQGK</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------+-+-------++-------+-++-+-------+++----+----------</proBnd>
+<rnaSeq>GGGGUAGUGAUUUUACCCUGGAG</rnaSeq>
+<rnaBnd>-+-+-+++++++++----+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4K4S" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEIQWMRPSKEVGYPIINAPSKTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLEDAMYGTDGLEALDLSTSAGYPYVAMGKKKRDILNKQTRDTKEMQKLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIEASSLNDSVAMRMAFGNLYAAFHKNPGVITGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGDRVDYIDYLNHSHHLYKNKTYCVKGGMPSGCSGTSIFNSMINNLIIRTLLLKTYKGIDLDHLKMIAYGDDVIASYPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDPRNTQDHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALDLPEYSTLYRRWLDSFGSSSHHHHHH</proSeq>
+<proBnd>-----------------+-+---+-----------------------------------------------------------------------------------+--+--++-----------+-------------------------------+----------------+--+----+---+----------+-----------+-+--------------------------------------------------------------------------++++-++-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>AAGUCUCCAGGUCUCUCGCGAAA</rnaSeq>
+<rnaBnd>--------++++++++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3BOY" ID="BD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>TLHKERRIGRLSVLLLLNEAEESTQVEELERDGWKVCLGKVGSMDAHKVIAAIETASKKSGVIQSEGYRESHALYHATMEALHGVTRGEMLLGSLLRTVGLRFAVLRGNPYESEAEGDWIAVSLYGTIGAPIKGLEHETFGVGINHI</proSeq>
+<proBnd>---------------------------------------+----------+--++---+------------------------------------+-+---+----------------------+-+--++++--+-----------</proBnd>
+<rnaSeq>UUUAGUUUUUAGUUUUUAGUUU</rnaSeq>
+<rnaBnd>+-+++-++-++++++-+++-++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3DH3" ID="DH" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MLPDSSVRLNKYISESGICSRREADRYIEQGNVFLNGKRATIGDQVKPGDVVKVNGQLIEPREAEDLVLIALNKPVGIVSTTEDGERDNIVDFVNHSKRVFPIGRLDKDSQGLIFLTNHGDLVNKILRAGNDHEKEYLVTVDKPITEEFIRGMSAGVPILGTVTKKCKVKKEAPFVFRITLVQGLNRQIRRMCEHFGYEVKKLERTRIMNVSLSGIPLGEWRDLTDDELIDLFKLIENSSSEVKPKAKAKPKTAGIKRPVVKMEKTAEKGGRPASNGKRFTSPGRKKKGR</proSeq>
+<proBnd>-------+-++--------+++--+----------------+---------------------------------------+----------------+-----+--+-----------+--++--++-------------------------------------------------------+-++-------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>AGAACGUCGUGAGACAGUUCGG</rnaSeq>
+<rnaBnd>---++++++++---+++-+++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4ERD" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MHHHHHHSIKQNCLIKIINIPQGTLKAEVVLAVRHLGYEFYCDYIDGQAMIRFQNSDEQRLAIQKLLNHNNNKLQIEIRGQICDVISTIPEDEEKNYWNYIKFKKNEFRKFFFMKKQQKKQNITQNYNK</proSeq>
+<proBnd>----------------------------------------+-+--------+------------------------------------------------+---+--++-++-----------------</proBnd>
+<rnaSeq>GGUCGACAUCUUCGGAUGGACC</rnaSeq>
+<rnaBnd>---++++-----++---++---</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4KRF" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AMEAGPSGAAAGAYLPPLQQVFQAPRRPGIGTVGKPIKLLANYFEVDIPKIDVYHYEVDIKPDKCPRRVNREVVEYMVQHFKPQIFGDRKPVYDGKKNIYTVTALPIGNERVDFEVTIPGEGKDRIFKVSIKWLAIVSWRMLHEALVSGQIPVPLESVQALDVAMRHLASMRYTPVGRSFFSPPEGYYHPLGGGREVWFGFHQSVRPAMWKMMLNIDVSATAFYKAQPVIEFMCEVLDIRNIDEQPKPLTDSQRVRFTKEIKGLKVEVTHCGQMKRKYRVCNVTRRPASHQTFPLQLESGQTVECTVAQYFKQKYNLQLKYPHLPCLQVGQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIKATARSAPDRQEEISRLMKNASYNLDPYIQEFGIKVKDDMTEVTGRVLPAPILQYGGRNRAIATPNQGVWDMRGKQFYNGIEIKVWAIACFAPQKQCREEVLKNFTDQLRKISKDAGMPIQGQPCFCKYAQGADSVEPMFRHLKNTYSGLQLIIVILPGKTPVYAEVKRVGDTLLGMATQCVQVKNVVKTSPQTLSNLCLKINVKLGGINNILVPHQRSAVFQQPVIFLGADVTHPPAGDGKKPSITAVVGSMDAHPSRYCATVRVQRPRQEIIEDLSYMVRELLIQFYKSTRFKPTRIIFYRDGVPEGQLPQILHYELLAIRDACIKLEKDYQPGITYIVVQKRHHTRLFCADKNERIGKSGNIPAGTTVDTNITHPFEFDFYLCSHAGIQGTSRPSHYYVLWDDNRFTADELQILTYQLCHTYVRCTRSVSIPAPAYYARLVAFRARYHLVDKEHDSGEGSHISGQSNGRDPQALAKAVQVHQDTLRTMYFA</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------++-------------------------------------------------+-------+--------------+++--------------+----+-------------------+-+-----------------+----+--++--+------+--------------------------------------------------------------------------------------------------------------------------------------------------+-+-+--+---+------------+-+--+-------+--+---+---+------------------------------------------------------------------------------------------------------------------------------------------++-+-+--------------------------------------++--+-+++----------------------------+-+--+--+-----+-------+-----------------------------------------------</proBnd>
+<rnaSeq>UGAGGUAGUAGGUUGUAUAGUU</rnaSeq>
+<rnaBnd>++++++++++-----------+</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1R9F" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSHMTSPFKLPDESPSWTEWRLHNDETNSNQDNPLGFKESWGFGKVVFKRYLRYDRTEASLHRVLGSWTGDSVNYAASRFFGFDQIGCTYSIRFRGVSITVSGGSRTLQHLCEMAIRSKQEMLQMAPIEVESNVSR</proSeq>
+<proBnd>-------------++----+-------------------------------------------------------------------++------------+-+--------------------------------</proBnd>
+<rnaSeq>CGUACGCGGAAUACUUCGAUU</rnaSeq>
+<rnaBnd>++--------+++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1RPU" ID="BC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MERAIQGNDTREQANGERWDGGSGGITSPFKLPDESPSWTEWRLYNDETNSNQDNPLGFKESWGFGKVVFKRYLRYDRTEASLHRVLGSWTGDSVNYAASRFLGANQVGCTYSIRFRGVSVTISGGSRTLQHLCEMAIRSKQELLQLTPVEVESNVSRGCPEGIETFKKESE</proSeq>
+<proBnd>-----------------+------------------+-+--+-----------------+------------+---------------------------------+-----------------------------------------------------------------</proBnd>
+<rnaSeq>CGUACGCGUCACGCGUACGUU</rnaSeq>
+<rnaBnd>++-----+-+++++----+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1URN" ID="AP" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AVPETRPNHTIYINNLNEKIKKDELKKSLHAIFSRFGQILDILVSRSLKMRGQAFVIFKEVSSATNALRSMQGFPFYDKPMRIQYAKTDSDIIAKMK</proSeq>
+<proBnd>-----------+-+++-+--+---------------------+----++-+-+-+-----------------------+--+-++-+++-++-----</proBnd>
+<rnaSeq>AAUCCAUUGCACUCCGGAUUU</rnaSeq>
+<rnaBnd>-+---+++++++--++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2RFK" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>EVRRILPADIKREVLIKDENAETNPDWGFPPEKRPIEMHIQFGVINLDKPPGPTSHEVVAWIKKILNLEKAGHGGTLAPKVSGVLPVALEKATRVVQALLPAGKEYVALMHLHGDVPEDKIIQVMKEFEGEIIQRPPLRSAVKRRLRTRKVYYIEVLEIEGRDVLFRVGVEAGTYIRSLIHHIGLALGVGAHMSELRRTRSGPFKEDETLITLHDLVDYYYFWKEDGIEEYFRKAIQPMEKAVEHLPKVWIKDSAVAAVTHGADLAVPGIAKLHAGIKRGDLVAIMTLKDELVALGKAMMTSQEMLEKTKGIAVDVEKVFMPRDWYPKLWEKRD</proSeq>
+<proBnd>-------------------------------------------------------------------------------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------+---+-----------</proBnd>
+<rnaSeq>GGGCUCCGGAAACCGCGGCGC</rnaSeq>
+<rnaBnd>--+-+--------------++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3TRZ" ID="AU" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AADEPQLLHGAGICKWFNVRMGFGFLSMTARAGVALDPPVDVFVHQSKLHMEGFRSLKEGEAVEFTFKKSAKGLESIRVTGPGGVFCIGSERRPKGGDRCYNCGGLDHHAKECKLPPQPKKCHFCQSINHMVASCPLKAQQGPSSQGK</proSeq>
+<proBnd>--------------++-++++---+---------------+-+-++-------++--------------+-+--+---------------+---------------------------------------------------------</proBnd>
+<rnaSeq>GGGCAGGGAUUUUGCCCGGAG</rnaSeq>
+<rnaBnd>----++++++++++--+++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1EC6" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKELVEIAVPENLVGAILGKGGKTLVEYQELTGARIQISKKGEFLPGTRNRRVTITGSPAATQAAQYLISQRVTYEQGVRASNPQKV</proSeq>
+<proBnd>----------++-+-+-++-----+-----------++-++-------+-+----------------------------+----+--</proBnd>
+<rnaSeq>GAGGACCUAGAUCACCCCUC</rnaSeq>
+<rnaBnd>-----+++++++++++----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4AY2" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SPFKPRNYQLELALPAMKGKNTIICAPTGCGKTFVSLLICEHHLKKFPQGQKGKVVFFANQIPVYEQNKSVFSKYFERHGYRVTGISGATAENVPVEQIVENNDIIILTPQILVNNLKKGTIPSLSIFTLMIFDECHNTSKQHPYNMIMFNYLDQKLGGSSGPLPQVIGLTASVGVGDAKNTDEALDYICKLCASLDASVIATVKHNLEELEQVVYKPQKFFRKVESRISDKFKYIIAQLMRDTESLAKRICKDLENLSQIQNREFGTQKYEQWIVTVQKACMVFQMPDKDEESRICKALFLYTSHLRKYNDALIISEHARMKDALDYLKDFFSNVRAAGFDEIEQDLTQRFEEKLQELESVSRDPSNENPKLEDLCFILQEEYHLNPETITILFVKTRALVDALKNWIEGNPKLSFLKPGILTGRGKTNQNTGMTLPAQKCILDAFKASGDHNILIATSVADEGIDIAQCNLVILYEYVGNVIKMIQTRGRGRARGSKCFLLTSNAGVIEKEQINMYKEKMMNDSILRLQTWDEAVFREKILHIQTHEKFIRDSQEKPKPVPDKENKKLLCRKCKALACYTADVRVIEDCHYTVLGDAFKECFVSRPHPKPKQFSSFEKRAKIFCARQNCSHDWGIHVKYKTFEIPVIKIESFVVEDIATGVQTLYSKWKDFHFEKIPFDPAEMSK</proSeq>
+<proBnd>-------------------------------------------------------------+-------------------------+--------------------+-+-----------------------------++----------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+-------------------</proBnd>
+<rnaSeq>GGCGCGGCUUCGGCCGCGCC</rnaSeq>
+<rnaBnd>----++------+-+---++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4F3T" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GAMYSGAGPALAPPAPPPPIQGYAFKPPPRPDFGTSGRTIKLQANFFEMDIPKIDIYHYELDIKPEKCPRRVNREIVEHMVQHFKTQIFGDRKPVFDGRKNLYTAMPLPIGRDKVELEVTLPGEGKDRIFKVSIKWVSCVSLQALHDALSGRLPSVPFETIQALDVVMRHLPSMRYTPVGRSFFTASEGCSNPLGGGREVWFGFHQSVRPSLWKMMLNIDVSATAFYKAQPVIEFVCEVLDFKSIEEQQKPLTDSQRVKFTKEIKGLKVEITHCGQMKRKYRVCNVTRRPASHQTFPLQQESGQTVECTVAQYFKDRHKLVLRYPHLPCLQVGQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIRATARSAPDRQEEISKLMRSASFNTDPYVREFGIMVKDEMTDVTGRVLQPPSILYGGRNKAIATPVQGVWDMRNKQFHTGIEIKVWAIACFAPQRQCTEVHLKSFTEQLRKISRDAGMPIQGQPCFCKYAQGADSVEPMFRHLKNTYAGLQLVVVILPGKTPVYAEVKRVGDTVLGMATQCVQMKNVQRTTPQTLSNLCLKINVKLGGVNNILLPQGRPPVFQQPVIFLGADVTHPPAGDGKKPSIAAVVGSMDAHPNRYCATVRVQQHRQEIIQDLAAMVRELLIQFYKSTRFKPTRIIFYRDGVSEGQFQQVLHHELLAIREACIKLEKDYQPGITFIVVQKRHHTRLFCTDKNERVGKSGNIPAGTTVDTKITHPTEFDFYLCSHAGIQGTSRPSHYHVLWDDNRFSSDELQILTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDKEHDSAEGSHTSGQSNGRDHQALAKAVQVHQDTLRTMYFA</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------++------------------------------------------------+----------------------+----------------+---++------------------++-+------------+-+-------+--++--+---------------------------------------------------------------------------------------------------------------------------------------------------------+-+-+--+---+------------+-+--+-------+--+---+---+------------------------------------------------------------------------------------------------------------------------------------------++---+--------------------------------------+---+-+-+----------------------------+-+-----+-----+-------+-----------------------------------------------</proBnd>
+<rnaSeq>UAAAGUGCUUAUAGUGCAGG</rnaSeq>
+<rnaBnd>++++++++++-------+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4KRE" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AMEAGPSGAAAGAYLPPLQQVFQAPRRPGIGTVGKPIKLLANYFEVDIPKIDVYHYEVDIKPDKCPRRVNREVVEYMVQHFKPQIFGDRKPVYDGKKNIYTVTALPIGNERVDFEVTIPGEGKDRIFKVSIKWLAIVSWRMLHEALVSGQIPVPLESVQALDVAMRHLASMRYTPVGRSFFSPPEGYYHPLGGGREVWFGFHQSVRPAMWKMMLNIDVSATAFYKAQPVIEFMCEVLDIRNIDEQPKPLTDSQRVRFTKEIKGLKVEVTHCGQMKRKYRVCNVTRRPASHQTFPLQLESGQTVECTVAQYFKQKYNLQLKYPHLPCLQVGQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIKATARSAPDRQEEISRLMKNASYNLDPYIQEFGIKVKDDMTEVTGRVLPAPILQYGGRNRAIATPNQGVWDMRGKQFYNGIEIKVWAIACFAPQKQCREEVLKNFTDQLRKISKDAGMPIQGQPCFCKYAQGADSVEPMFRHLKNTYSGLQLIIVILPGKTPVYAEVKRVGDTLLGMATQCVQVKNVVKTSPQTLSNLCLKINVKLGGINNILVPHQRSAVFQQPVIFLGADVTHPPAGDGKKPSITAVVGSMDAHPSRYCATVRVQRPRQEIIEDLSYMVRELLIQFYKSTRFKPTRIIFYRDGVPEGQLPQILHYELLAIRDACIKLEKDYQPGITYIVVQKRHHTRLFCADKNERIGKSGNIPAGTTVDTNITHPFEFDFYLCSHAGIQGTSRPSHYYVLWDDNRFTADELQILTYQLCHTYVRCTRSVSIPAPAYYARLVAFRARYHLVDKEHDSGEGSHISGQSNGRDPQALAKAVQVHQDTLRTMYFA</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-+-++-----------------------------------------------+-------+--------------+-+--------------+----+-------------------+-+------------+----+----+--++---------+--------------------------------------------------------------------------------------------------------------------------------------------------+------+---+-----------++-+--+-------+--+---+---+------------------------------------------------------------------------------------------------------------------------------------------+----+--------------------------------------+--++-+++----------------------------+-+--+--+-----+----------+--------------------------------------------</proBnd>
+<rnaSeq>AAUAUUAAAAAAAAAAAAAA</rnaSeq>
+<rnaBnd>+++++++++---------++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="7MSF" ID="AR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQTVGGVELPVAAWRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY</proSeq>
+<proBnd>----------------------------+-------------+-+-+-+---------+-+-+---------------------+-+------------------------------------------</proBnd>
+<rnaSeq>UCGCCAACAGGCGG</rnaSeq>
+<rnaBnd>+---+++++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2GJW" ID="BE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MHHHHHHHHIGGDFAVVKAKKSLERRGFGVKRGDKIYLHPLEVVYLQIKGIESFGELEDVLSWAESRMEDFSTYYFVYEDLRDRGNKVKIQGEFLLTKKPYLPISERKTIRMEEIAEKARNFDELRLAVVDEESEITYFRVYEPDMMGEQKEELPEIAGVLSDEYVITKQTEIFSRYFYGSEKGDLVTLSLIESLYLLDLGKLNLLNADREELVKRAREVERNFDRRYEVYRNLKERGFVVKTGFKFGSEFRVYRKVESVDDLPHSEYLVDIADSREIRLIDLARAVRLAQNVRKRMVFAYGKNYLCFERVKV</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+---------------+---</proBnd>
+<rnaSeq>GCGACCGACCAUAGCUGCA</rnaSeq>
+<rnaBnd>-------++-+-++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2IZN" ID="BR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQTVGGVELPVAAWRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY</proSeq>
+<proBnd>----------------------------+---------------+-+-+-+---+-+-+-+--------------------------------------------------------------------</proBnd>
+<rnaSeq>ACAUCGCGAUUACGGAUGU</rnaSeq>
+<rnaBnd>----++-+++++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AVY" ID="AT" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAEITASLVKELRERTGAGMMDCKKALTEANGDIELAIENMRKSGAIKAAKKAGNVAADGVIKTKIDGNYGIILEVNCQTDFVAKDAGFQAFADKVLDAAVAGKITDVEVLKAQFEEERVALVAKIGENINIRRVAALEGDVLGSYQHGARIGVLVAAKGADEELVKHIAMHVAASKPEFIKPEDVSAEVVEKEYQVQLDIAMQSGKPKEIAEKMVEGRMKKFTGEVSLTGQPFVMEPSKTVGQLLKEHNAEVTGFIRFEVGEGIEKVETDFAAEVAAMSKQSHMSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARGITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHILLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALEGDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVGEEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIKPHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMVVTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLSGASGAAGGGGSGGGGSMSKTASSRNSLSAQLRRAANTRIEVEGNLALSIANDLLLAYGQSPFNSEAECISFSPRFDGTPDDFRINYLKAEIMSKYDDFSLGIDTEAVAWEKFLAAEAECALTNARLYRPDYSEDFNFSLGESCIHMARRKIAKLIGDVPSVEGMLRHCRFSGGATTTNNRSYGHPSFKFALPQACTPRALKYVLALRASTHFDIRISDISPFNKAVTVPKNSKTDRCIAIEPGWNMFFQLGIGGILRDRLRCWGIDLNDQTINQRRAHEGSVTNNLATVDLSAASDSISLALCELLLPPGWFEVLMDLRSPKGRLPDGSVVTYEKISSMGNGYTFELESLIFASLARSVCEILDLDSSEVTVYGDDIILPSCAVPALREVFKYVGFTTNTKKTFSEGPFRESCGKHYYSGVDVTPFYIRHRIVSPADLILVLNNLYRWATIDGVWDPRAHSVYLKYRKLLPKQLQRNTIPDGYGDGALVGSVLINPFAKNRGWIRYVPVITDHTRDRERAELGSYLYDLFSRCLSESNDGLPLRGPSGCDSADLFAIDQLICRSNPTKISRSTGKFDIQYIACSSRVLAPYGVFQGTKVASLHEAHHHHHH</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+--+---+----------------------------------------------------------------------------+----------+-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------++-+-------------------------------------------</proBnd>
+<rnaSeq>AACGAUUUUAUGGACCCA</rnaSeq>
+<rnaBnd>-++-+++-----+-+---</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3KS8" ID="AF" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAHHHHHHVDDDDKPGPALYEENALKGKIDDPNSYVPDAVQEAYKNLDSTSTLTEENFGKPYISAKDLKEIMYDHLPGFGTAFHQLVQVICKIGKDNNLLDTIHAEFQASLADGDSPQCALIQITKRVPIFQDVPPPIIHIRSRGDIPRACQKSLRPAPPSPKIDRGWVCLFKMQDGKTLGLKI</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------+-+------------------------------+----------------------------------+</proBnd>
+<rnaSeq>UCCUCCCUCCCUCCUUCU</rnaSeq>
+<rnaBnd>+-+---+--------+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3KS8" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAHHHHHHVDDDDKPGPALYEENALKGKIDDPNSYVPDAVQEAYKNLDSTSTLTEENFGKPYISAKDLKEIMYDHLPGFGTAFHQLVQVICKIGKDNNLLDTIHAEFQASLADGDSPQCALIQITKRVPIFQDVPPPIIHIRSRGDIPRACQKSLRPAPPSPKIDRGWVCLFKMQDGKTLGLKI</proSeq>
+<proBnd>---------------------------------------------------------------------------------------------------------------------+------------------------------+---++------------------------------</proBnd>
+<rnaSeq>AGAAGGAGGGAGGGAGGA</rnaSeq>
+<rnaBnd>+-++--+--------+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4IG8" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MMDLRNTPAKSLDKFIEDYLLPDTCFRMQINHAIDIICGFLKERCFRGSSYPVCVSKVVKGGSSGKGTTLRGRSDADLVVFLSPLTTFQDQLNRRGEFIQEIRRQLEACQRERAFSVKFEVQAPRWGNPRALSFVLSSLQLGEGVEFDVLPAFDALGQLTGGYKPNPQIYVKLIEECTDLQKEGEFSTCFTELQRDFLKQRPTKLKSLIRLVKHWYQNCKKKLGKLPPQYALELLTVYAWERGSMKTHFNTAQGFRTVLELVINYQQLCIYWTKYYDFKNPIIEKYLRRQLTKPRPVILDPADPTGNLGGGDPKGWRQLAQEAEAWLNYPCFKNWDGSPVSSWILLAGP</proSeq>
+<proBnd>-----------------------+--+---------------+---+-------++-----------------------------------------------------------------------------------------------------------------------------------------------+-----+-----------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GGCUUUUGACCUUUAUGC</rnaSeq>
+<rnaBnd>-----++++------++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4IG8" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MMDLRNTPAKSLDKFIEDYLLPDTCFRMQINHAIDIICGFLKERCFRGSSYPVCVSKVVKGGSSGKGTTLRGRSDADLVVFLSPLTTFQDQLNRRGEFIQEIRRQLEACQRERAFSVKFEVQAPRWGNPRALSFVLSSLQLGEGVEFDVLPAFDALGQLTGGYKPNPQIYVKLIEECTDLQKEGEFSTCFTELQRDFLKQRPTKLKSLIRLVKHWYQNCKKKLGKLPPQYALELLTVYAWERGSMKTHFNTAQGFRTVLELVINYQQLCIYWTKYYDFKNPIIEKYLRRQLTKPRPVILDPADPTGNLGGGDPKGWRQLAQEAEAWLNYPCFKNWDGSPVSSWILLAGP</proSeq>
+<proBnd>-------------+--+-------------+---+----------------------+-+-------------------------------------------------------------------------------------------------+------------------------------------+-------++--+---------------------------------------+------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GCAUAAAGGUCAAAAGCC</rnaSeq>
+<rnaBnd>+-++++------+++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2B3J" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSHMTNDIYFMTLAIEEAKKAAQLGEVPIGAIITKDDEVIARAHNLRETLQQPTAHAEHIAIERAAKVLGSWRLEGCTLYVTLEPCVMCAGTIVMSRIPRVVYGADDPKGGCSGSLMNLLQQSNFNHRAIVDKGVLKEACSTLLTTFFKNLRANKKSTN</proSeq>
+<proBnd>------------------------+-+-------------------++-------+--------------------------+----------------------++-+-------------------------------+--+--++--++-------</proBnd>
+<rnaSeq>UUUGACUACGGAUCAA</rnaSeq>
+<rnaBnd>-----++-++++++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2F8K" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>LSSNSSMNPKSLTDPKLLKNIPMWLKSLRLHKYSDALSGTPWIELIYLDDETLEKKGVLALGARRKLLKAFGIVIDYKERDLIDRSAY</proSeq>
+<proBnd>-------------------------+--+++++---------------------------++--++----------------------</proBnd>
+<rnaSeq>UAAUCUUUGACAGAUU</rnaSeq>
+<rnaBnd>---++++++-------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3ZC0" ID="BN" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GPHMRLEECRKRLEELEAAREELLKVLREMRIHSTKSIALIHAGKVEEAEQELKKAIELLEKVKAYREYPEIYFYLCNDAMQELVEAIAFKNAISGEFTFEIDLEVTPAAFLNGFAAAVGELRRYALTKLIEGDFKSAERMLEVMEKIYERLMEFTTFPDKLVSGLRKKLDVARGGIERTKSDYIAAKVARLNESLGGN</proSeq>
+<proBnd>-------------------+------------------------------------------------------+---+------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>UUCGACGCGUCGAAUU</rnaSeq>
+<rnaBnd>-----+++++++++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1SDS" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAVYVKFKVPEEIQKELLDAVAKAQKIKKGANEVTKAVERGIAKLVIIAEDVKPEEVVAHLPYLCEEKGIPYAYVASKQDLGKAAGLEVAASSVAIINEGDAEELKVLIEKVNVLKQ</proSeq>
+<proBnd>----------------------------+-+++------------------++---+--------------------+--------+-++-+-------------------------</proBnd>
+<rnaSeq>CCUGAUUGGUGAGGG</rnaSeq>
+<rnaBnd>-------++++-+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2BX2" ID="LR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>AHIEGRHMKRMLINATQQEELRVALVDGQRLYDLDIESPGHEQKKANIYKGKITRIEPSLEAAFVDYGAERHGFLPLKEIAREYFPANYSAHGRPNIKDVLREGQEVIVQIDKEERGNKGAALTTFISLAGSYLVLMPNNPRAGGISRRIEGDDRTELKEALASLELPEGMGLIVRTAGVGKSAEALQWDLSFRLKHWEAIKKAAESRPAPFLIHQESNVIVRAFRDYLRQDIGEILIDNPKVLELARQHIAALGRPDFSSKIKLYTGEIPLFSHYQIESQIESAFQREVRLPSGGSIVIDSTEALTAIDINSARATRGGDIEETAFNTNLEAADEIARQLRLRDLGGLIVIDFIDMTPVRHQRAVENRLREAVRQDRARIQISHISRFGLLEMSRQRLSPSLGESSHHVCPRCSGTGTVRDNESLSLSILRLIEEEALKENTQEVHAIVPVPIASYLLNEKRSAVNAIETRQDGVRCVIVPNDQMETPHYHVLRVRKGEETPTLSYMLPKLHEEAM</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------+--------+-+-+-------------------------+-++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>UUUACAGUAUUUGUU</rnaSeq>
+<rnaBnd>+++------------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2I91" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MEATMDQTQPLNEKQVPNSEGCYVWQVSDMNRLRRFLCFGSEGGTYYIEEKKLGQENAEALLRLIEDGKGCEVVQEIKTFSQEGRAAKQEPTLFALAVCSQCSDIKTKQAAFRAVPEVCRIPTHLFTFIQFKKDLKEGMKCGMWGRALRKAVSDWYNTKDALNLAMAVTKYKQRNGWSHKDLLRLSHIKPANEGLTMVAKYVSKGWKEVQEAYKEKELSPETEKVLKYLEATERVKRTKDELEIIHLIDEYRLVREHLLTIHLKSKEIWKSLLQDMPLTALLRNLGKMTADSVLAPASSEVSSVCERLTNEKLLKKARIHPFHILVALETYKKGHGNRGKLRWIPDTSIVEALDNAFYKSFKLVEPTGKRFLLAIDVSASMNQRVLGSILNASVVAAAMCMLVARTEKDSHMVAFSDEMLPCPITVNMLLHEVVEKMSDITMGSTDCALPMLWAQKTNTAADIFIVFTDCETNVEDVHPATALKQYREKMGIPAKLIVCAMTSNGFSIADPDDRGMLDICGFDSGALDVIRNFTLDLI</proSeq>
+<proBnd>--------------------------------------------------------------------------------+----+++-------------------------------+--+----------------------------------------------++++++------------------------------------------------------------++-----------------++---+---+-------------+-+-++-+++----------------------------+-+----+------+------+++---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>CGGUAGGCUUUUCAA</rnaSeq>
+<rnaBnd>----+++-+++++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4FTB" ID="CR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MVNNNRPRRQRAQRVVVTTTQTAPVPQQNVPRNGRRRRNRTRRNRRRVRGMNMAALTRLSQPGLAFLKCAFAPPDFNTDPGKGIPDRFEGKVVSRKDVLNQSISFTAGQDTFILIAPTPGVAYWSASVPAGTFPTSATTFNPVNYPGFTSMFGTTSTSRSDQVSSFRYASMNVGIYPTSNLMQFAGSITVWKCPVKLSTVQFPVATDPATSSLVHTLVGLDGVLAVGPDNFSESFIKGVFSQSACNEPDFEFNDILEGIQTLPPANVSLGSTGQPFTMDSGAEATSGVVGWGNMDTIVIRVSAPEGAVNSAILKAWSCIEYRPNPNAMLYQFGHDSPPLDEVALQEYRTVARSLPVAVIAAQN</proSeq>
+<proBnd>------------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>UUUCUCUUUUAUCUU</rnaSeq>
+<rnaBnd>--------+--++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3HAX" ID="AF" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MARDEVRRILPADIKREVLIKDENAETNPDWGFPPEKRPIEMHIQFGVINLDKPPGPTSHEVVAWIKKILNLEKAGHGGTLDPKVSGVLPVALEKATRVVQALLPAGKEYVALMHLHGDVPEDKIIQVMKEFEGEIIQRPPLRSAVKRRLRTRKVYYIEVLEIEGRDVLFRVGVEAGTYIRSLIHHIGLALGVGAHMSELRRTRSGPFKEDETLITLHDLVDYYYFWKEDGIEEYFRKAIQPMEKAVEHLPKVWIKDSAVAAVTHGADLAVPGIAKLHAGIKRGDLVAIMTLKDELVALGKAMMTSQEMLEKTKGIAVDVEKVFMPRDWYPKLWEKRDRSHHHHHH</proSeq>
+<proBnd>----------------------------------------------------------++-------------------++-++----------------------------------------------------------+-+++-+-+-+-------------------------+-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>AUAAUUUGACUCAA</rnaSeq>
+<rnaBnd>---+++-++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="6MSF" ID="BR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>ASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQTVGGVELPVAAWRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY</proSeq>
+<proBnd>----------------------------+---------------+-+-+-++--+-+-+-+-----------------------------+--------------------------------------</proBnd>
+<rnaSeq>CCACAGUCACUGGG</rnaSeq>
+<rnaBnd>--+-+++++-----</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AVX" ID="AT" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAEITASLVKELRERTGAGMMDCKKALTEANGDIELAIENMRKSGAIKAAKKAGNVAADGVIKTKIDGNYGIILEVNCQTDFVAKDAGFQAFADKVLDAAVAGKITDVEVLKAQFEEERVALVAKIGENINIRRVAALEGDVLGSYQHGARIGVLVAAKGADEELVKHIAMHVAASKPEFIKPEDVSAEVVEKEYQVQLDIAMQSGKPKEIAEKMVEGRMKKFTGEVSLTGQPFVMEPSKTVGQLLKEHNAEVTGFIRFEVGEGIEKVETDFAAEVAAMSKQSHMSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARGITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHILLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALEGDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVGEEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIKPHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMVVTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLSGASGAAGGGGSGGGGSMSKTASSRNSLSAQLRRAANTRIEVEGNLALSIANDLLLAYGQSPFNSEAECISFSPRFDGTPDDFRINYLKAEIMSKYDDFSLGIDTEAVAWEKFLAAEAECALTNARLYRPDYSEDFNFSLGESCIHMARRKIAKLIGDVPSVEGMLRHCRFSGGATTTNNRSYGHPSFKFALPQACTPRALKYVLALRASTHFDIRISDISPFNKAVTVPKNSKTDRCIAIEPGWNMFFQLGIGGILRDRLRCWGIDLNDQTINQRRAHEGSVTNNLATVDLSAASDSISLALCELLLPPGWFEVLMDLRSPKGRLPDGSVVTYEKISSMGNGYTFELESLIFASLARSVCEILDLDSSEVTVYGDDIILPSCAVPALREVFKYVGFTTNTKKTFSEGPFRESCGKHYYSGVDVTPFYIRHRIVSPADLILVLNNLYRWATIDGVWDPRAHSVYLKYRKLLPKQLQRNTIPDGYGDGALVGSVLINPFAKNRGWIRYVPVITDHTRDRERAELGSYLYDLFSRCLSESNDGLPLRGPSGCDSADLFAIDQLICRSNPTKISRSTGKFDIQYIACSSRVLAPYGVFQGTKVASLHEAHHHHHH</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-++-----+-----------------------------------------------++--------+------------------+----------+-+---------------------------------------------------------------------+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------</proBnd>
+<rnaSeq>AACGAUGGACCCA</rnaSeq>
+<rnaBnd>-++++++---+-+</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3AVY" ID="AG" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MAEITASLVKELRERTGAGMMDCKKALTEANGDIELAIENMRKSGAIKAAKKAGNVAADGVIKTKIDGNYGIILEVNCQTDFVAKDAGFQAFADKVLDAAVAGKITDVEVLKAQFEEERVALVAKIGENINIRRVAALEGDVLGSYQHGARIGVLVAAKGADEELVKHIAMHVAASKPEFIKPEDVSAEVVEKEYQVQLDIAMQSGKPKEIAEKMVEGRMKKFTGEVSLTGQPFVMEPSKTVGQLLKEHNAEVTGFIRFEVGEGIEKVETDFAAEVAAMSKQSHMSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARGITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHILLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALEGDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVGEEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIKPHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMVVTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLSGASGAAGGGGSGGGGSMSKTASSRNSLSAQLRRAANTRIEVEGNLALSIANDLLLAYGQSPFNSEAECISFSPRFDGTPDDFRINYLKAEIMSKYDDFSLGIDTEAVAWEKFLAAEAECALTNARLYRPDYSEDFNFSLGESCIHMARRKIAKLIGDVPSVEGMLRHCRFSGGATTTNNRSYGHPSFKFALPQACTPRALKYVLALRASTHFDIRISDISPFNKAVTVPKNSKTDRCIAIEPGWNMFFQLGIGGILRDRLRCWGIDLNDQTINQRRAHEGSVTNNLATVDLSAASDSISLALCELLLPPGWFEVLMDLRSPKGRLPDGSVVTYEKISSMGNGYTFELESLIFASLARSVCEILDLDSSEVTVYGDDIILPSCAVPALREVFKYVGFTTNTKKTFSEGPFRESCGKHYYSGVDVTPFYIRHRIVSPADLILVLNNLYRWATIDGVWDPRAHSVYLKYRKLLPKQLQRNTIPDGYGDGALVGSVLINPFAKNRGWIRYVPVITDHTRDRERAELGSYLYDLFSRCLSESNDGLPLRGPSGCDSADLFAIDQLICRSNPTKISRSTGKFDIQYIACSSRVLAPYGVFQGTKVASLHEAHHHHHH</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------------------------------------</proBnd>
+<rnaSeq>GGGUCCAUAAAAU</rnaSeq>
+<rnaBnd>------++--+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3NNC" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>SDAIKMFVGQVPRTWSEKDLRELFEQYGAVYEINVLRDRSQNPPQSKGCCFVTFYTRKAALEAQNALHNMKVLPGMHHPIQMKPADSEKNNAVEDRKLFIGMISKKCTENDIRVMFSSFGQIEECRILRGPDGLSRGCAFVTFTTRAMAQTAIKAMHQAQTMEGCSSPMVVKFAD</proSeq>
+<proBnd>--------------------------------------------------------------------------------------------------+--+-----------------------+---------+-+-+-----------------+-------+-+-+-++-+</proBnd>
+<rnaSeq>UGUGUGUUGUGUG</rnaSeq>
+<rnaBnd>-------++++--</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3V6Y" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSNNVLPTWSLDSNGEMRSRLSLSEVLDSGDLMKFAVDKTGCQFLEKAVKGSLTSYQKFQLFEQVIGRKDDFLKLSTNIFGNYLVQSVIGISLATNDDGYTKRQEKLKNFISSQMTDMCLDKFACRVIQSSLQNMDLSLACKLVQALPRDARLIAICVDQNANHVIQKVVAVIPLKNWEFIVDFVATPEHLRQICSDKYGCRVVQTIIEKLTADSMNVDLTSAAQNLRERALQRLMTSVTNRCQELATNEYANYIIQHIVSNDDLAVYRECIIEKCLMRNLLSLSQEKFASHVVEKAFLHAPLELLAEMMDEIFDGYIPHPDTGKDALDIMMFHQFGNYVVQCMLTICCDAVSGRRQTKEGGYDHAISFQDWLKKLHSRVTKERHRLSRFSSGKKMIETLANLRSTHPIYELQ</proSeq>
+<proBnd>--------------------------------------+--+---+---------------------------------+-++--+---------------------------------------+--+---------------------------------++-------------------------------------+-----------------------------------------------+--++--+------------------------------+--++---------------------------------------+-----++--+-----------------------------------------------+++---------------------</proBnd>
+<rnaSeq>UACUGUGCCAUAC</rnaSeq>
+<rnaBnd>--++++++-++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3V74" ID="AB" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GSNNVLPTWSLDSNGEMRSRLSLSEVLDSGDLMKFAVDKTGCQFLEKAVKGSLTSYQKFQLFEQVIGRKDDFLKLSTNIFGNYLVQSVIGISLATNDDGYTKRQEKLKNFISSQMTDMCLDKFACRVIQSSLQNMDLSLACKLVQALPRDARLIAICVDQNANHVIQKVVAVIPLKNWEFIVDFVATPEHLRQICSDKYGCRVVQTIIEKLTADSMNVDLTSAAQNLRERALQRLMTSVTNRCQELATNEYANYIIQHIVSNDDLAVYRECIIEKCLMRNLLSLSQEKFASHVVEKAFLHAPLELLAEMMDEIFDGYIPHPDTGKDALDIMMFHQFGNYVVQCMLTICCDAVSGRRQTKEGGYDHAISFQDWLKKLHSRVTKERHRLSRFSSGKKMIETLANLRSTHPIYELQ</proSeq>
+<proBnd>--------------------------------------+--+---+-----------------------------------++--+---------------------------------------+--+-------------------------------+-++---------------------------------++-++--+--------------------------------------------++-++--+------------------------------+--++--+------------------------------------++----++--+-----------------------------------------------+++-++------------------</proBnd>
+<rnaSeq>UCAUGUGCCAUAC</rnaSeq>
+<rnaBnd>-+++++++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4K4S" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEIQWMRPSKEVGYPIINAPSKTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLEDAMYGTDGLEALDLSTSAGYPYVAMGKKKRDILNKQTRDTKEMQKLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIEASSLNDSVAMRMAFGNLYAAFHKNPGVITGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGDRVDYIDYLNHSHHLYKNKTYCVKGGMPSGCSGTSIFNSMINNLIIRTLLLKTYKGIDLDHLKMIAYGDDVIASYPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDPRNTQDHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALDLPEYSTLYRRWLDSFGSSSHHHHHH</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-++---------------------------------------------++-----------------------+-----------+-----------------------------------------------------------</proBnd>
+<rnaSeq>UGUUCGCGAGAGA</rnaSeq>
+<rnaBnd>------++-++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1YYW" ID="AE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKMLEQLEKKLGYTFKDKSLLEKALTHVSYSKKEHYETLEFLGDALVNFFIVDLLVQYSPNKREGFLSPLKAYLISEEFFNLLAQKLELHKFIRIKRGKINETIIGDVFEALWAAVYIDSGRDANFTRELFYKLFKEDILSAIKEGRVKKDYKTILQEITQKRWKERPEYRLISVEGPHHKKKFIVEAKIKEYRTLGEGKSKKEAEQRAAEELIKLLEESE</proSeq>
+<proBnd>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-------------------</proBnd>
+<rnaSeq>AAAUAUAUAUUU</rnaSeq>
+<rnaBnd>----+++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2GJW" ID="AF" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MHHHHHHHHIGGDFAVVKAKKSLERRGFGVKRGDKIYLHPLEVVYLQIKGIESFGELEDVLSWAESRMEDFSTYYFVYEDLRDRGNKVKIQGEFLLTKKPYLPISERKTIRMEEIAEKARNFDELRLAVVDEESEITYFRVYEPDMMGEQKEELPEIAGVLSDEYVITKQTEIFSRYFYGSEKGDLVTLSLIESLYLLDLGKLNLLNADREELVKRAREVERNFDRRYEVYRNLKERGFVVKTGFKFGSEFRVYRKVESVDDLPHSEYLVDIADSREIRLIDLARAVRLAQNVRKRMVFAYGKNYLCFERVKV</proSeq>
+<proBnd>----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+---------------+---</proBnd>
+<rnaSeq>UGCAGCGGUCAA</rnaSeq>
+<rnaBnd>-------++-+-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2PY9" ID="BE" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>KNVTLTIRLLMHGKEVGSIIGKKGESVKKMREESGARINISEGNCPERIITLAGPTNAIFKAFAMIIDKLEED</proSeq>
+<proBnd>----------------+--+--+-------+--------+-+-----+-------------------------</proBnd>
+<rnaSeq>AACCCUAACCCU</rnaSeq>
+<rnaBnd>--+++++-++++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="2XNR" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MGSSHHHHHHSSGLVPRGSHMKSRLFIGNLPLKNVSKEDLFRIFSPYGHIMQINIKNAFGFIQFDNPQSVRDAIECESQEMNFGKKLILEVSSSNAR</proSeq>
+<proBnd>-----------------------+-+---------------------------+------+--------------------------+-+++++---</proBnd>
+<rnaSeq>UUCUUAUUCUUA</rnaSeq>
+<rnaBnd>-+++--------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3QJJ" ID="BR" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>HHHHMRIEVKLLPLKDNPILPFNYNYEVYSQILEKVNSIEPTIAKLLSSPHGFWTFSRIIVRKRKILPDKGIEILSDDVSLYISSSNEDIIRAIAEAVEKSPEFKIGELSFLVGDIKAIKVKELGKENVFSTLSPIVVRTVKFEGNKLRHWDLYPHDELFMDRLRKVMILRYSEVMGETPKDRDFTIEVLKFKPTRLMVGSSYIRGSLMVFRYAGSEEIARFGYENGFGEKTGLGFGMVKLIE</proSeq>
+<proBnd>-----+---------------++----------------------------------+-+++-+---+---+---------+------------------------------------+-----------+-----------------+-++--------------------------------------+-++-+------+-+--+-+-----------------------------++--</proBnd>
+<rnaSeq>GUUGAAAUCAGA</rnaSeq>
+<rnaBnd>+++++++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3QJL" ID="AX" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>HHHHMRIEVKLLPLKDNPILPFNYNYEVYSQILEKVNSIEPTIAKLLSSPHGFWTFSRIIVRKRKILPDKGIEILSDDVSLYISSSNEDIIRAIAEAVEKSPEFKIGELSFLVGDIKAIKVKELGKENVFSTLSPIVVRTVKFEGNKLRHWDLYPHDELFMDRLRKVMILRYSEVMGETPKDRDFTIEVLKFKPTRLMVGSSYIRGSLMVFRYAGSEEIARFGYENGFGEKTGLGFGMVKLIE</proSeq>
+<proBnd>-----+------------------------------------------------------++-------------------+------------------------------------+++-------+---+--------------------------------------------------------+++-----------------+-+---------------------------+-++</proBnd>
+<rnaSeq>GUUACAAUAAGA</rnaSeq>
+<rnaBnd>+++++++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4K4T" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GEIQWMRPSKEVGYPIINAPSKTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLEDAMYGTDGLEALDLSTSAGYPYVAMGKKKRDILNKQTRDTKEMQKLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIEASSLNDSVAMRMAFGNLYAAFHKNPGVITGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGDRVDYIDYLNHSHHLYKNKTYCVKGGMPSGCSGTSIFNSMINNLIIRTLLLKTYKGIDLDHLKMIAYGDDVIASYPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDPRNTQDHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALDLPEYSTLYRRWLDSFGSSSHHHHHH</proSeq>
+<proBnd>------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-++---------------------------------------------+------------------------+-----------+---+-------------------------------------------------------</proBnd>
+<rnaSeq>UGUUCCGAGAGA</rnaSeq>
+<rnaBnd>-----+++-+++</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1BMV" ID="2M" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>METNLFKLSLDDVETPKGSMLDLKISQSKIALPKNTVGGTILRSDLLANFLTEGNFRASVDLQRTHRIKGMIKMVATVGIPENTGIALACAMNSSIRGRASSDIYTICSQDCELWNPACTKAMTMSFNPNPCSDAWSLEFLKRTGFHCDIICVTGWTATPMQDVQVTIDWFISSQECVPRTYCVLNPQNPFVLNRWMGKLTFPQGTSRSVKRMPLSIGGGAGAKSAILMNMPNAVLSMWRYFVGDLVFEVSKMTSPYIKCTVSFFIAFGNLADDTINFEAFPHKLVQFGEIQEKVVLKFSQEEFLTAWSTQVRPATTLLADGCPYLYAMVHDSSVSTIPGDFVIGVKLTIIENMCAYGLNPGISGSRLLGTIPQ</proSeq>
+<proBnd>--+--------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------</proBnd>
+<rnaSeq>GGUCAAAAUGC</rnaSeq>
+<rnaBnd>+--++------</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="1YZ9" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>MKMLEQLEKKLGYTFKDKSLLEKALTHVSYSKKEHYETLEFLGDALVNFFIVDLLVQYSPNKREGFLSPLKAYLISEEFFNLLAQKLELHKFIRIKRGKINETIIGDVFQALWAAVYIDSGRDANFTRELFYKLFKEDILSAIKEGRVKKDYKTILQEITQKRWKERPEYRLISVEGPHHKKKFIVEAKIKEYRTLGEGKSKKEAEQRAAEELIKLLEESE</proSeq>
+<proBnd>-----------------------------------------------------------------------------------------------------------------------------------------------+++----+-++--+---------+-----------------------------------+---+--------------</proBnd>
+<rnaSeq>CGAACUUCGCG</rnaSeq>
+<rnaBnd>-+++++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="3BSX" ID="AC" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GRSRLLEDFRNNRYPNLQLREIAGHIMEFSQDQHGSRFIQLKLERATPAERQLVFNEILQAAYQLMVDVFGNYVIQKFFEFGSLEQKLALAERIRGHVLSLALQMYGCRVIQKALEFIPSDQQNEMVRELDGHVLKCVKDQNGNHVVQKCIECVQPQSLQFIIDAFKGQVFALSTHPYGCRVIQRILEHCLPDQTLPILEELHQHTEQLVQDQYGNYVIQHVLEHGRPEDKSKIVAEIRGNVLVLSQHKFASNVVEKCVTHASRTERAVLIDEVCTMNDGPHSALYTMMKDQYANYVVQKMIDVAEPGQRKIVMHKIRPHIATLRKYTYGKHILAKLEKYYMK</proSeq>
+<proBnd>--------------------------------+------+----------------------------+--++--+--------------------------------+--+----------------------------+---+--+--------------------------------+--+----------------------------+--++--+----------------------------+--+---+-----------------------------------+--++--+--------------------------------+-----------</proBnd>
+<rnaSeq>UUGUAAUAUUA</rnaSeq>
+<rnaBnd>-+++++-+++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+<BindPartner pdbid="4ED5" ID="AD" residue_index="0" pattern_count="0" isCommon="false">
+<proSeq>GRTNLIVNYLPQNMTQDELRSLFSSIGEVESAKLIRDKVAGHSLGYGFVNYVTAKDAERAINTLNGLRLQSKTIKVSYARPSSEVIKDANLYISGLPRTMTQKDVEDMFSRFGRIINSRVLVDQTTGLSRGVAFIRFDKRSEAEEAITSFNGHKPPGSSEPITVKFAANLEHHHHHH</proSeq>
+<proBnd>---+-+-++--+-----------------------------+-+---+-----------------------++-+-+-++-+---+++-+-+-----------------------+--+--+-------+---+-+----------------------------++-+---------</proBnd>
+<rnaSeq>AUUUUUAUUUU</rnaSeq>
+<rnaBnd>-+++++++++-</rnaBnd>
+<ratio>0</ratio>
+</BindPartner>
+</partner>
+</BindPartners>
