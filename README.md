@@ -32,7 +32,7 @@ torch.backends.cudnn.benchmark = False
 np.random.seed(seed)
 random.seed(seed)
 
-# Path to the saved model
+# Path to the saved model (change to match the timestamp for your trained model
 model_path = "esm2_t6_8M-finetuned-lora_2023-08-03_18-32-25"
 
 # Load the model
