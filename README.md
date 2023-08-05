@@ -30,30 +30,27 @@ train_protein_model()
 It seems as though it is necessary to run the following to take care of any randomness in the model:
 ```python
 from transformers import AutoModelForTokenClassification, AutoTokenizer
+from peft import PeftModel
 import torch
 import numpy as np
 import random
 
-seed = 42
-torch.manual_seed(seed)
-torch.cuda.manual_seed_all(seed)
-torch.backends.cudnn.deterministic = True
-torch.backends.cudnn.benchmark = False
-np.random.seed(seed)
-random.seed(seed)
 
-# Path to the saved model (change to match the timestamp for your trained model
+
+# Path to the saved LoRA model
 model_path = "esm2_t6_8M-finetuned-lora_2023-08-03_18-32-25"
+# ESM2 base model
+base_model_path = "facebook/esm2_t6_8M_UR50D"
 
 # Load the model
-loaded_model = AutoModelForTokenClassification.from_pretrained(model_path)
-loaded_model.eval()  # Set the model to evaluation mode
+base_model = AutoModelForTokenClassification.from_pretrained(base_model_path)
+loaded_model = PeftModel.from_pretrained(base_model, model_path)
 
 # Load the tokenizer
 loaded_tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 # New unseen protein sequence
-new_protein_sequence = "MADSEQNSEWKEVKEQKANRGW"
+new_protein_sequence = "FDLNDFLEQKVLVRMEAIINSMTMKERAKPEIIKGSRKRRIAAGSGMQVQDVNRLLKQFDDMQRMMKKM"
 
 # Tokenize the new sequence
 inputs = loaded_tokenizer(new_protein_sequence, truncation=True, padding='max_length', max_length=512, return_tensors="pt")
