@@ -27,7 +27,7 @@ from lora_esm2_script import train_protein_model
 train_protein_model()
 ```
 
-It seems as though it is necessary to run the following to take care of any randomness in the model:
+To use, try running:
 ```python
 from transformers import AutoModelForTokenClassification, AutoTokenizer
 from peft import PeftModel
